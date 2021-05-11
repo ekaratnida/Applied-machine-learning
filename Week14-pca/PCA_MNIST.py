@@ -38,7 +38,7 @@ test_img = scaler.transform(test_img)
 # and transform the input (prepare for modeling in the next step)
 from sklearn.decomposition import PCA
 print(f"Before PCA, there are {train_img.shape[1]} components.")
-beta = 0.95
+beta = 0.5
 pca = PCA(beta)
 pca.fit(train_img)
 print(f"After PCA with {beta*100}% of variance, there are {pca.n_components_} components remain.") # 327 components remain
