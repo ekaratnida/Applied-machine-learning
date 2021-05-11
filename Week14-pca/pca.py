@@ -4,7 +4,7 @@ from numpy import cov
 from numpy.linalg import eig
 
 # define a small 3×2 matrix
-matrix = array([[5, 6], [8, 10], [12, 18]])
+matrix = array([[1, 3], [2, 3], [3, 4], [3, 5], [4, 4], [4, 6], [5, 6], [5, 7], [6, 8], [7, 8]])
 print("original Matrix: ")
 print(matrix)
 
@@ -23,10 +23,10 @@ cov_matrix = cov(Centre_col.T)
 print(cov_matrix)
 
 # eigendecomposition of covariance matrix
-values, vectors = eig(cov_matrix)
-print("Eigen vectors: ",vectors)
-print("Eigen values: ",values)
+eigen_values, eigen_vectors = eig(cov_matrix)
+print("Eigen vectors: ",eigen_vectors)
+print("Eigen values: ",eigen_values)
 
 # project data on the new axes
-projected_data = vectors.T.dot(Centre_col.T)
+projected_data = eigen_vectors.T.dot(Centre_col.T)
 print(projected_data.T)
