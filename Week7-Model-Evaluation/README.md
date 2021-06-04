@@ -35,3 +35,5 @@ params_grid = [{
 
 grid = GridSearchCV(pipe, params_grid)
 </pre>
+
+https://www.bualabs.com/archives/532/what-is-training-set-why-train-test-split-training-set-validation-set-test-set/
