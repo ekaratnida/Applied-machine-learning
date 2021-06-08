@@ -2,5 +2,5 @@
 
 https://elitedatascience.com/imbalanced-classes
 
-<H2> Naive bayes 
+<H2> Naive bayes </H2> </br>
 https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html
