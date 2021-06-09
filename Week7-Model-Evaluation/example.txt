@@ -1,0 +1,24 @@
+Usage example
+
+1. cross_val_score
+
+# Train several models with specified n_fold CV
+
+model_dispatcher = {
+
+      "linear_regression" : LinearRegression(),
+      "randomforest" : RandomForestRegressor(),
+      "xgboost" : XGBRegressor(),
+      "catboost" : CatBoostRegressor(silent=True),
+      "lightbgm" : lgb.LGBMRegressor(),
+      "knn" : KNeighborsRegressor(),
+      "svr" : SVR(),
+      "extratrees" : ExtraTreeRegressor(),
+      "GBDT" : GradientBoostingRegressor()
+    }
+
+for name, model in model_dispatcher.items():
+
+    # perform cv and calculate score
+    cv = model_selection.cross_val_score(model, train_feats, target, cv=5, scoring="r2")
+    print(f"{name}: {cv} \t Mean CV: {cv.mean()}")
