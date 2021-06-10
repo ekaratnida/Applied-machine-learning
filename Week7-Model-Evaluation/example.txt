@@ -4,6 +4,8 @@ Usage example
 
 # Train several models with specified n_fold CV
 
+from sklearn.model_selection import cross_val_score
+
 model_dispatcher = {
 
       "linear_regression" : LinearRegression(),
@@ -20,5 +22,5 @@ model_dispatcher = {
 for name, model in model_dispatcher.items():
 
     # perform cv and calculate score
-    cv = model_selection.cross_val_score(model, train_feats, target, cv=5, scoring="r2")
+    cv = cross_val_score(model, train_feats, target, cv=5, scoring="r2")
     print(f"{name}: {cv} \t Mean CV: {cv.mean()}")
