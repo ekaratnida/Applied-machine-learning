@@ -69,7 +69,9 @@ All TP, FP and FN across all samples are used to calculate a final micro F0.5 sc
 Evidently Ai
 https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
-For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
-For YouTube recommendations, false-negatives is less of a concern. Precision is better here.
+## Good example of precision and recall
+
+"For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
+For YouTube recommendations, false-negatives is less of a concern. Precision is better here." https://datascience.stackexchange.com/a/30882
 
 "We have thousands of free customers registering in our website every week. The call center team wants to call them all, but it is imposible, so they ask me to select those with good chances to be a buyer (with high temperature is how we refer to them). We don't care to call a guy that is not going to buy (so precision is not important) but for us is very important that all of them with high temperature are always in my selection, so they don't go without buying. That means that my model needs to have a high recall, no matter if the precision goes to hell." https://datascience.stackexchange.com/a/30884
