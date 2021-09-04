@@ -68,3 +68,6 @@ All TP, FP and FN across all samples are used to calculate a final micro F0.5 sc
 
 Evidently Ai
 https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
+
+For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
+For YouTube recommendations, false-negatives is less of a concern. Precision is better here.
