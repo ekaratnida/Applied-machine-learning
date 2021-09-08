@@ -9,3 +9,5 @@ https://towardsdatascience.com/time-series-decomposition-and-statsmodels-paramet
 # Social network
 
 https://sefiks.com/2021/06/06/graph-embeddings-in-neo4j-with-graphsage/?fbclid=IwAR1jduBXBMLeB189WCQyvOx4gvn6pswvJbB0rRQzbB8Nvy_zkpjL5aMhW9g
+
+https://people.idsia.ch/~juergen/
