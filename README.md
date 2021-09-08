@@ -11,3 +11,7 @@ https://towardsdatascience.com/time-series-decomposition-and-statsmodels-paramet
 https://sefiks.com/2021/06/06/graph-embeddings-in-neo4j-with-graphsage/?fbclid=IwAR1jduBXBMLeB189WCQyvOx4gvn6pswvJbB0rRQzbB8Nvy_zkpjL5aMhW9g
 
 https://people.idsia.ch/~juergen/
+
+# Others
+
+https://medium.com/@kirk.borne/the-importance-of-location-in-real-estate-weather-and-machine-learning-8b12627c5744
