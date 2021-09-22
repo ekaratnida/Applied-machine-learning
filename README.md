@@ -15,3 +15,7 @@ https://people.idsia.ch/~juergen/
 # Others
 
 https://medium.com/@kirk.borne/the-importance-of-location-in-real-estate-weather-and-machine-learning-8b12627c5744
+
+# Good project
+https://github.com/pjwebdev/Basic-Data-Science-Projects
+
