@@ -19,3 +19,6 @@ https://medium.com/@kirk.borne/the-importance-of-location-in-real-estate-weather
 # Good project
 https://github.com/pjwebdev/Basic-Data-Science-Projects
 
+# Time series
+https://www.bounteous.com/insights/2020/09/15/forecasting-time-series-model-using-python-part-one/
+
