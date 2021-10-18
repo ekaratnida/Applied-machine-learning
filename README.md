@@ -22,3 +22,7 @@ https://github.com/pjwebdev/Basic-Data-Science-Projects
 # Time series
 https://www.bounteous.com/insights/2020/09/15/forecasting-time-series-model-using-python-part-one/
 
+# Data integration
+Join
+https://www.analyticsvidhya.com/blog/2021/06/join-the-dataframes-like-sql-tables-in-python-using-pandas/
+
