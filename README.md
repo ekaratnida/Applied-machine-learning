@@ -30,4 +30,5 @@ Join
 https://www.analyticsvidhya.com/blog/2021/06/join-the-dataframes-like-sql-tables-in-python-using-pandas/
 
 Useful
-https://twitter.com/DataScienceDojo/status/1454585658685657090?t=dOWacKO387XW_9oC9Ig6aA&s=09
+https://twitter.com/DataScienceDojo/status/1454585658685657090?t=dOWacKO387XW_9oC9Ig6aA&s=09 <br>
+https://twitter.com/ccmccomb/status/1462554716018290695
