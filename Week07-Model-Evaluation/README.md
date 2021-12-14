@@ -79,3 +79,5 @@ For YouTube recommendations, false-negatives is less of a concern. Precision is 
 https://forecasters.org/wp-content/uploads/gravity_forms/7-621289a708af3e7af65a7cd487aee6eb/2015/07/Kolassa_Stephan_ISF2015.pdf
 
 https://blog.clairvoyantsoft.com/churning-the-confusion-out-of-the-confusion-matrix-b74fb806e66
+
+Recall: https://c3.ai/glossary/data-science/recall/
