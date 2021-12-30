@@ -1,4 +1,23 @@
 # applied-machine-learning
+| Week  |  Topic | Exam |
+| ----  |  ---- | ---- |
+| 1     |     Introduction |
+| 2     |     Single variable Linear Regression |
+| 3     |     Multiple variables Linear Regression |
+| 4     |     Workshop I: Deploy ML application I |
+| 5     |     Logistic Regression | 
+| 6     |     Regularization |
+| 7     |     Evaluation |
+| 8     |     Workshop II: Deploy ML application II | 
+| -     |     | Midterm exam (30%) |
+| 9     |     KNN | 
+| 10    |     Decision tree |
+| 11    |     Neural network |
+| 12    |     Support Vector Machine (SVM) |
+| 13    |     Clustering: K-Means |
+| 14    |     PCA | 
+| 15    |     Modern ML techniques |
+| 16    |      | Final exam (30%) + Kaggle competition (40%) |
 
 Time series
 
