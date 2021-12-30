@@ -19,13 +19,16 @@
 | 15    |     Modern ML techniques |
 | -    |      | Final exam (30%) + Kaggle competition (40%) |
 
-Time series
+
+# Reference
+
+# Time series
 
 https://otexts.com/fpp2/MA.html
 
 https://towardsdatascience.com/time-series-decomposition-and-statsmodels-parameters-69e54d035453
 
-Math for ML
+# Math for ML
 
 https://gwthomas.github.io/docs/math4ml.pdf
 
