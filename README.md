@@ -17,7 +17,7 @@
 | 13    |     Clustering: K-Means |
 | 14    |     PCA | 
 | 15    |     Modern ML techniques |
-| 16    |      | Final exam (30%) + Kaggle competition (40%) |
+| -    |      | Final exam (30%) + Kaggle competition (40%) |
 
 Time series
 
