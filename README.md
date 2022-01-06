@@ -65,6 +65,6 @@ Toos:
 - https://github.com/automl/auto-sklearn
 - https://autokeras.com/
 
-Good case study in applied ML
+Real case study in Applied ML
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E9w3hkr9qQY/0.jpg)](https://www.youtube.com/watch?v=E9w3hkr9qQY)
