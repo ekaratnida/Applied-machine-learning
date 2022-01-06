@@ -66,4 +66,5 @@ Toos:
 - https://autokeras.com/
 
 Good case study in applied ML
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E9w3hkr9qQY/0.jpg)](https://www.youtube.com/watch?v=E9w3hkr9qQY)
