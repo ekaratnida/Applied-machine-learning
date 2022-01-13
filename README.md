@@ -22,6 +22,9 @@
 
 # Reference
 
+# In-class competition
+https://www.kaggle.com/c/nida-competition1/submissions
+
 # Time series
 
 https://otexts.com/fpp2/MA.html
