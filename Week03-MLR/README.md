@@ -5,3 +5,5 @@ Credit IBM https://www.ibm.com/in-en/analytics/learn/linear-regression
 
 Good exercise
 1. https://www.webpages.uidaho.edu/~stevel/251/Regression%20Analysis%20example.pdf
+2. https://medium.com/@junyoung_lee/predicting-insurance-premiums-708113cb64f3
+3. 
