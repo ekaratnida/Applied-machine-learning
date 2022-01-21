@@ -76,3 +76,6 @@ https://www.myport.pro/?fbclid=IwAR3_aV_K87KZSMw4jDPDFvIUuwVuUV1CL8XGW_TYV56bx3Z
 
 ## 2. Trading Bot BOTUS Will Buy And Sell Stock Based On Trump's Tweets </br> 
 https://www.npr.org/2017/04/14/523890750/twitter-bot-botus-will-buy-and-sell-stock-based-on-trumps-tweets
+
+## 3. Process automation at Morgan Stanley
+https://www.morganstanley.com/ideas/process-automation
