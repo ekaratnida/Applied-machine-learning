@@ -70,9 +70,9 @@ Toos:
 
 # Real case-study in Applied ML
 
-## 1. MyPort
-https://www.myport.pro/?fbclid=IwAR3_aV_K87KZSMw4jDPDFvIUuwVuUV1CL8XGW_TYV56bx3ZTuNrndSKlmb8
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E9w3hkr9qQY/0.jpg)](https://www.youtube.com/watch?v=E9w3hkr9qQY)
+## 1. Trading bot MyPort
+1.1 https://www.myport.pro/?fbclid=IwAR3_aV_K87KZSMw4jDPDFvIUuwVuUV1CL8XGW_TYV56bx3ZTuNrndSKlmb8 </br>
+1.2 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E9w3hkr9qQY/0.jpg)](https://www.youtube.com/watch?v=E9w3hkr9qQY)
 
 ## 2. Trading Bot BOTUS Will Buy And Sell Stock Based On Trump's Tweets </br> 
 https://www.npr.org/2017/04/14/523890750/twitter-bot-botus-will-buy-and-sell-stock-based-on-trumps-tweets
