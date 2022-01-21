@@ -79,3 +79,7 @@ https://www.npr.org/2017/04/14/523890750/twitter-bot-botus-will-buy-and-sell-sto
 
 ## 3. Process automation at Morgan Stanley
 https://www.morganstanley.com/ideas/process-automation
+
+## 4. Research paper
+https://www.bc.edu/content/dam/files/schools/cas_sites/cs/pdf/academics/honors/16Lu.pdf
+
