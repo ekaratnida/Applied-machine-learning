@@ -68,6 +68,12 @@ Toos:
 - https://github.com/automl/auto-sklearn
 - https://autokeras.com/
 
+Useful info
+
+1. https://medium.datadriveninvestor.com/significance-of-i-i-d-in-machine-learning-281da0d0cbef
+
+2. https://www.kaggle.com/gloriousc/insurance-forecast-by-using-linear-regression/script
+
 # Real case-study in Applied ML
 
 ## 1. Trading bot MyPort
