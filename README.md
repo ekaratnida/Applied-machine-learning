@@ -89,6 +89,9 @@ https://www.morganstanley.com/ideas/process-automation
 ## 4. Research paper
 https://www.bc.edu/content/dam/files/schools/cas_sites/cs/pdf/academics/honors/16Lu.pdf
 
+## 5. Cheat sheet
 ![image](https://user-images.githubusercontent.com/69342162/153760382-d4dbb96e-a617-47d5-bd1a-d78cda298bec.png)
+
+https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf
 
 
