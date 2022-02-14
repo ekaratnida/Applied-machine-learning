@@ -1,5 +1,8 @@
 <H1> Good reference </H1>
 
+Feature selection </br>
+https://arxiv.org/pdf/2005.12483.pdf
+
 https://stackoverflow.com/questions/44172162/f1-score-vs-roc-auc
 
 https://stackoverflow.com/questions/38555650/try-multiple-estimator-in-one-grid-search/53292354
