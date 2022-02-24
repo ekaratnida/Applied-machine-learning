@@ -7,3 +7,6 @@ https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html
 
 ## Classification case study
 https://slack.engineering/email-classification/
+
+## log loss
+https://www.kaggle.com/dansbecker/what-is-log-loss/notebook
