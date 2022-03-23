@@ -89,3 +89,4 @@ Recall: https://c3.ai/glossary/data-science/recall/
 # Multi-class
 
 https://vitalflux.com/micro-average-macro-average-scoring-metrics-multi-class-classification-python/
+https://datascience.stackexchange.com/a/24051
