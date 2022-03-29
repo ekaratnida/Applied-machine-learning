@@ -4,4 +4,5 @@ https://colab.research.google.com/github/nholmber/google-colab-cs231n/blob/maste
 
 Probability distribution
 
-https://www.datacamp.com/community/tutorials/probability-distributions-python
+https://www.datacamp.com/community/tutorials/probability-distributions-python </br>
+https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/
