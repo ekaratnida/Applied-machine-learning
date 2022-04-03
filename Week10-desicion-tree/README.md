@@ -9,5 +9,5 @@ https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithm
 
 https://www.learnbymarketing.com/481/decision-tree-flavors-gini-info-gain/
 
-## Book [p.597 ~ 617]
+## Detail [p.597 ~ 617]
 https://github.com/probml/pml-book/releases/latest/download/book1.pdf
