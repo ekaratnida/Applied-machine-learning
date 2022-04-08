@@ -1,5 +1,5 @@
 ## Reference
-1. https://pub.towardsai.net/perceptron-a-basic-neural-network-model-for-deep-learning-21aea56e3216
+Tools: https://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=&seed=0.64443&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 
 ## Details [P.413 ~ 459]
 https://github.com/probml/pml-book/releases/latest/download/book1.pdf
