@@ -277,7 +277,33 @@
     {
       "cell_type": "markdown",
       "source": [
-        "def __init__(hidden_layer_sizes=(100,), activation='relu', *, solver='adam', alpha=0.0001, batch_size='auto', learning_rate='constant', learning_rate_init=0.001, power_t=0.5, max_iter=200, shuffle=True, random_state=None, tol=0.0001, verbose=False, warm_start=False, momentum=0.9, nesterovs_momentum=True, early_stopping=False, validation_fraction=0.1, beta_1=0.9, beta_2=0.999, epsilon=1e-08, n_iter_no_change=10, max_fun=15000)"
+        "def __init__(</br>\n",
+        ">  hidden_layer_sizes=(100,), </br>\n",
+        "  activation='relu', </br>\n",
+        "  *, </br>\n",
+        "  solver='adam', </br>\n",
+        "  alpha=0.0001, </br>\n",
+        "  batch_size='auto', </br>\n",
+        "  learning_rate='constant', </br>\n",
+        "  learning_rate_init=0.001, </br>\n",
+        "  power_t=0.5, </br>\n",
+        "  max_iter=200, </br>\n",
+        "  shuffle=True, </br>\n",
+        "  random_state=None, </br>\n",
+        "  tol=0.0001, </br>\n",
+        "  verbose=False, </br>\n",
+        "  warm_start=False, </br>\n",
+        "  momentum=0.9, </br>\n",
+        "  nesterovs_momentum=True, </br>\n",
+        "  early_stopping=False, </br>\n",
+        "  validation_fraction=0.1, </br>\n",
+        "  beta_1=0.9, </br>\n",
+        "  beta_2=0.999, </br>\n",
+        "  epsilon=1e-08,</br>\n",
+        "  n_iter_no_change=10, </br>\n",
+        "  max_fun=15000 </br>\n",
+        "  \n",
+        ")"
       ],
       "metadata": {
         "id": "LINzJDrX4eGG"
@@ -300,11 +326,11 @@
         "clf.score(X_test, y_test)"
       ],
       "metadata": {
-        "id": "eNRYrDzs4Cee",
-        "outputId": "f617f775-3c73-48a8-8d16-1c8a0f9c652c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "eNRYrDzs4Cee",
+        "outputId": "f617f775-3c73-48a8-8d16-1c8a0f9c652c"
       },
       "execution_count": 1,
       "outputs": [
