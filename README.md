@@ -87,8 +87,14 @@ https://www.npr.org/2017/04/14/523890750/twitter-bot-botus-will-buy-and-sell-sto
 https://www.morganstanley.com/ideas/process-automation
 
 ## Med
-https://www.youtube.com/watch?v=deJ5LA21cts
-https://www.youtube.com/watch?v=9BdUTvbk9lE
+
+Diagnostic performance of deep learning based voice analysis for diabetes screening
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/deJ5LA21cts/0.jpg)](https://www.youtube.com/watch?v=deJ5LA21cts)
+
+AI in Healthcare An overview and applications in Ophthalmology
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9BdUTvbk9lE/0.jpg)](https://www.youtube.com/watch?v=9BdUTvbk9lE)
 
 ## 4. Research paper
 https://www.bc.edu/content/dam/files/schools/cas_sites/cs/pdf/academics/honors/16Lu.pdf
