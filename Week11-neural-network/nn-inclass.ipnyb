@@ -1,6 +1,16 @@
 {
   "cells": [
     {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ekaratnida/Applied-machine-learning/blob/master/Week11-neural-network/nn-inclass.ipnyb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
       "cell_type": "code",
       "source": [
         "#Credit https://joelpendleton.github.io/XNOR-NeuralNet/\n",
@@ -11,7 +21,7 @@
       "metadata": {
         "id": "TTlbnv_HcmD4"
       },
-      "execution_count": 67,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -26,7 +36,7 @@
       "metadata": {
         "id": "quvmLuE9cpks"
       },
-      "execution_count": 68,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -47,7 +57,7 @@
           "height": 53
         }
       },
-      "execution_count": 69,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -80,12 +90,12 @@
       "metadata": {
         "id": "KR4ySYovcs9b"
       },
-      "execution_count": 70,
+      "execution_count": null,
       "outputs": []
     },
     {
       "cell_type": "code",
-      "execution_count": 71,
+      "execution_count": null,
       "metadata": {
         "_cell_guid": "9bf7a553-3a65-40b6-bfee-adf55b25b703",
         "_uuid": "931336d1-e65f-4a59-8231-4ed1eee589d1",
@@ -186,7 +196,7 @@
         "id": "a5Z_ZCpuc2A_",
         "outputId": "cefd7d90-b5f6-48c1-a7a5-7910f201ad1c"
       },
-      "execution_count": 72,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -199,7 +209,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 73,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
@@ -254,6 +264,61 @@
         "\n",
         "plt.show()"
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "NN in SKLearn"
+      ],
+      "metadata": {
+        "id": "nFU5BEpl3-3s"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "def __init__(hidden_layer_sizes=(100,), activation='relu', *, solver='adam', alpha=0.0001, batch_size='auto', learning_rate='constant', learning_rate_init=0.001, power_t=0.5, max_iter=200, shuffle=True, random_state=None, tol=0.0001, verbose=False, warm_start=False, momentum=0.9, nesterovs_momentum=True, early_stopping=False, validation_fraction=0.1, beta_1=0.9, beta_2=0.999, epsilon=1e-08, n_iter_no_change=10, max_fun=15000)"
+      ],
+      "metadata": {
+        "id": "LINzJDrX4eGG"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from sklearn.neural_network import MLPClassifier\n",
+        "from sklearn.datasets import make_classification\n",
+        "from sklearn.model_selection import train_test_split\n",
+        "X, y = make_classification(n_samples=100, random_state=1)\n",
+        "X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y,\n",
+        "                                                    random_state=1)\n",
+        "clf = MLPClassifier(random_state=1, max_iter=300).fit(X_train, y_train)\n",
+        "clf.predict_proba(X_test[:1])\n",
+        "\n",
+        "clf.predict(X_test[:5, :])\n",
+        "\n",
+        "clf.score(X_test, y_test)"
+      ],
+      "metadata": {
+        "id": "eNRYrDzs4Cee",
+        "outputId": "f617f775-3c73-48a8-8d16-1c8a0f9c652c",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "0.88"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 1
+        }
+      ]
     }
   ],
   "metadata": {
@@ -276,7 +341,8 @@
     },
     "colab": {
       "name": "nn-inclass.ipnyb",
-      "provenance": []
+      "provenance": [],
+      "include_colab_link": true
     }
   },
   "nbformat": 4,
