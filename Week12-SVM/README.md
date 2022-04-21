@@ -7,3 +7,5 @@ Ref: https://nianlonggu.com/2019/05/24/tutorial-on-SVM/#2d-toy-data
 ## Good tutorials
 
 https://www.kaggle.com/code/azzion/svm-for-beginners-tutorial/notebook
+
+Credit card dataset: https://www.kaggle.com/code/pierra/credit-card-dataset-svm-classification/notebook
