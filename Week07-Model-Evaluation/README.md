@@ -86,7 +86,12 @@ https://blog.clairvoyantsoft.com/churning-the-confusion-out-of-the-confusion-mat
 Recall: https://c3.ai/glossary/data-science/recall/
 
 
-# Multi-class
+## Multi-class
 
 https://vitalflux.com/micro-average-macro-average-scoring-metrics-multi-class-classification-python/
 https://datascience.stackexchange.com/a/24051
+
+## ROC AUC
+https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
+
+https://franciscorequena.com/post/roc-curves-an-animated-example/
