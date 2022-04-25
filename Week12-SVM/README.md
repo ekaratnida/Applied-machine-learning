@@ -10,6 +10,8 @@ https://www.kaggle.com/code/azzion/svm-for-beginners-tutorial/notebook
 
 Credit card dataset: https://www.kaggle.com/code/pierra/credit-card-dataset-svm-classification/notebook
 
+https://www.mltut.com/svm-implementation-in-python-from-scratch/
+
 ## Paper
 
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.356&rep=rep1&type=pdf
