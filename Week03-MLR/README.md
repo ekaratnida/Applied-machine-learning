@@ -1,6 +1,7 @@
-Note
+## Note
 
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html
+Lecture note ->
+
 
 ![image](https://user-images.githubusercontent.com/69342162/150293991-ce1998a2-b8fa-499b-9e9b-50c0760193cc.png)
 Credit IBM https://www.ibm.com/in-en/analytics/learn/linear-regression
