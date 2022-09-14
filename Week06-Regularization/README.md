@@ -5,6 +5,8 @@ Overfit: https://www.siamquant.com/illusion-of-overfitting/?fbclid=IwAR0jSMSHURw
 
 https://www.youtube.com/watch?v=Xm2C_gTAl8c
 
+https://towardsdatascience.com/regularization-in-machine-learning-connecting-the-dots-c6e030bfaddd
+
 ## EDA example
 
 https://www.stat.cmu.edu/capstoneresearch/315files_s22/team18.html
