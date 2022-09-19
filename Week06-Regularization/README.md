@@ -1,6 +1,8 @@
 ## Reference
 
-Lasso: https://www.ccs.neu.edu/home/eelhami/courses/EE290A/LASSO_Tibshirani.pdf
+Lasso: 
+- https://www.ccs.neu.edu/home/eelhami/courses/EE290A/LASSO_Tibshirani.pdf
+- http://www.cs.cmu.edu/~ggordon/10725-F12/slides/08-general-gd.pdf
 
 Overfitting ภาพลวงตาของระบบการลงทุน: https://www.siamquant.com/illusion-of-overfitting/?fbclid=IwAR0jSMSHURwhmJ3Y1XYIcmtAsTFqyBa6ihcuC7j1uZSCEQntbPiHiN4X0pQ
 
