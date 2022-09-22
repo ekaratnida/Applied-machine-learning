@@ -73,25 +73,19 @@ Evidently Ai
 https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
 ## Good example of precision and recall
-
-"For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
-For YouTube recommendations, false-negatives is less of a concern. Precision is better here." https://datascience.stackexchange.com/a/30882
-
-"We have thousands of free customers registering in our website every week. The call center team wants to call them all, but it is imposible, so they ask me to select those with good chances to be a buyer (with high temperature is how we refer to them). We don't care to call a guy that is not going to buy (so precision is not important) but for us is very important that all of them with high temperature are always in my selection, so they don't go without buying. That means that my model needs to have a high recall, no matter if the precision goes to hell." https://datascience.stackexchange.com/a/30884
-
-https://forecasters.org/wp-content/uploads/gravity_forms/7-621289a708af3e7af65a7cd487aee6eb/2015/07/Kolassa_Stephan_ISF2015.pdf
-
-https://blog.clairvoyantsoft.com/churning-the-confusion-out-of-the-confusion-matrix-b74fb806e66
-
-Recall: https://c3.ai/glossary/data-science/recall/
+- "For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
+- For YouTube recommendations, false-negatives is less of a concern. Precision is better here." https://datascience.stackexchange.com/a/30882
+- https://forecasters.org/wp-content/uploads/gravity_forms/7-621289a708af3e7af65a7cd487aee6eb/2015/07/Kolassa_Stephan_ISF2015.pdf
+- https://blog.clairvoyantsoft.com/churning-the-confusion-out-of-the-confusion-matrix-b74fb806e66
+- Recall: https://c3.ai/glossary/data-science/recall/
 
 
 ## Multi-class
 
-https://vitalflux.com/micro-average-macro-average-scoring-metrics-multi-class-classification-python/
-https://datascience.stackexchange.com/a/24051
+- https://vitalflux.com/micro-average-macro-average-scoring-metrics-multi-class-classification-python/
+- https://datascience.stackexchange.com/a/24051
 
 ## ROC AUC
-https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
-
-https://franciscorequena.com/post/roc-curves-an-animated-example/
+- https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
+- https://franciscorequena.com/post/roc-curves-an-animated-example/
+- https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
