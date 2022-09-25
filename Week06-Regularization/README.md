@@ -7,7 +7,9 @@ Lasso:
 
 Overfitting ภาพลวงตาของระบบการลงทุน: https://www.siamquant.com/illusion-of-overfitting/?fbclid=IwAR0jSMSHURwhmJ3Y1XYIcmtAsTFqyBa6ihcuC7j1uZSCEQntbPiHiN4X0pQ
 
-How ridge and lasso work?: https://www.youtube.com/watch?v=Xm2C_gTAl8c
+How ridge and lasso work?: 
+- https://www.youtube.com/watch?v=Xm2C_gTAl8c
+- https://www.linkedin.com/pulse/tutorial-ridge-lasso-regression-subhajit-mondal/?trk=read_related_article-card_title
 
 Explain: https://towardsdatascience.com/regularization-in-machine-learning-connecting-the-dots-c6e030bfaddd
 
