@@ -79,6 +79,7 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 - https://blog.clairvoyantsoft.com/churning-the-confusion-out-of-the-confusion-matrix-b74fb806e66
 - Recall: https://c3.ai/glossary/data-science/recall/
 - K-Folds: https://www.analyticsvidhya.com/blog/2022/02/k-fold-cross-validation-technique-and-its-essentials/
+- https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
 
 ## Multi-class
 - https://vitalflux.com/micro-average-macro-average-scoring-metrics-multi-class-classification-python/
