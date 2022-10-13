@@ -4,7 +4,8 @@ https://jamesmccaffrey.wordpress.com/2018/03/14/datasets-for-binary-classificati
 
 # Streamlit
 
-https://docs.streamlit.io/library/get-started
+- https://docs.streamlit.io/library/get-started
+- https://web.facebook.com/pok.pok.330467/videos/2951253655201242?_rdc=1&_rdr
 
 <!-- https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html#marginal-dependencies -->
 
