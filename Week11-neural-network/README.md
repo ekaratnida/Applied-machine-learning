@@ -20,4 +20,4 @@ calculate the gradient of the loss function with respect to each weight and bias
 ## Great resources
 1. https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ 
 2. Neural circuit policies enabling auditable autonomy 
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Neural circuit policies](https://img.youtube.com/vi/wAa358pNDkQ/0.jpg =100x100)](https://www.youtube.com/watch?v=wAa358pNDkQ)
+- &nbsp;&nbsp;&nbsp; [![Neural circuit policies](https://img.youtube.com/vi/wAa358pNDkQ/0.jpg)](https://www.youtube.com/watch?v=wAa358pNDkQ)
