@@ -22,6 +22,9 @@
 
 # Reference
 
+# Generative VS Discriminative
+https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminative-and-generative-models-in-machine-learning/
+
 # In-class competition
 https://www.kaggle.com/c/nida-competition1/submissions
 
@@ -101,12 +104,8 @@ https://www.bc.edu/content/dam/files/schools/cas_sites/cs/pdf/academics/honors/1
 
 ## 5. Cheat sheet
 ![image](https://user-images.githubusercontent.com/69342162/153760382-d4dbb96e-a617-47d5-bd1a-d78cda298bec.png)
-
-### ML
-https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf
-
-### Probability
-https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
+- ML : https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf
+- Probability : https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 
 ### Machine learning กับ ธนาคาร
 https://www.gsbresearch.or.th/wp-content/uploads/2018/06/20IN_hotissue_AI_internet_detail.pdf
