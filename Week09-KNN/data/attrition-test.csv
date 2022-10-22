@@ -1,0 +1,4 @@
+Age,BusinessTravel,Department,DistanceFromHome,Education,Gender,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,OverTime,PercentSalaryHike,PerformanceRating,StockOptionLevel,TotalWorkingYears,YearsAtCompany,YearsSinceLastPromotion,Name
+27,Travel_Rarely,Research & Development,17,3,Male,2,Laboratory Technician,1,Single,4903,Yes,11,4,0,5,1,1,John
+50,Travel_Rarely,Sales,20,2,Female,1,Sales Executive,4,Married,2586,No,17,3,0,3,3,0,Rachel
+35,Travel_Frequently,Research & Development,3,4,Female,3,Research Scientist,3,Single,5772,Yes,23,5,2,8,3,1,Veronica
