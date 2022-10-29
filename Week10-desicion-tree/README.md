@@ -18,7 +18,8 @@ https://www.learnbymarketing.com/481/decision-tree-flavors-gini-info-gain/
 https://github.com/probml/pml-book/releases/latest/download/book1.pdf
 
 ## Information
-scikit-learn uses an optimised version of the CART algorithm.
+scikit-learn uses an optimised version of the CART algorithm. </br>
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
 
 ## SHAP
 https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf
