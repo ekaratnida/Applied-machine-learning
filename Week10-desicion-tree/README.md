@@ -1,4 +1,9 @@
 ## Good resources
+
+Cornell lab
+
+https://github.com/ekaratnida/cornell-cs5785-2020-applied-ml/blob/main/notebooks/lecture12-decision-trees.ipynb
+
 Gini VS Entropy
 
 https://quantdare.com/decision-trees-gini-vs-entropy/
