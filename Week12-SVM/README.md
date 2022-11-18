@@ -15,3 +15,5 @@ https://www.mltut.com/svm-implementation-in-python-from-scratch/
 ## Paper
 
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.356&rep=rep1&type=pdf
+
+derivative xTx https://math.stackexchange.com/questions/132415/vector-derivation-of-xtx
