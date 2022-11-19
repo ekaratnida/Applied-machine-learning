@@ -17,3 +17,7 @@ https://www.mltut.com/svm-implementation-in-python-from-scratch/
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.356&rep=rep1&type=pdf
 
 derivative xTx https://math.stackexchange.com/questions/132415/vector-derivation-of-xtx
+
+## Plane and scale
+
+![plane](https://user-images.githubusercontent.com/69342162/202852218-74562d74-bb59-49a0-a675-37729f6c8a83.gif)
