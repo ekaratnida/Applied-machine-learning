@@ -2,10 +2,12 @@
 
 Feature selection </br>
 https://arxiv.org/pdf/2005.12483.pdf
-
 https://stackoverflow.com/questions/44172162/f1-score-vs-roc-auc
-
 https://stackoverflow.com/questions/38555650/try-multiple-estimator-in-one-grid-search/53292354
+https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a
+https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137
+https://towardsdatascience.com/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
 
 <pre>
 from sklearn.pipeline import Pipeline
