@@ -68,3 +68,5 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
 ## More ..
 https://datascience.stackexchange.com/a/24051
+https://www.datascienceblog.net/post/machine-learning/interpreting-roc-curves-auc/
+https://medium.com/@douglaspsteen/precision-recall-curves-d32e5b290248
