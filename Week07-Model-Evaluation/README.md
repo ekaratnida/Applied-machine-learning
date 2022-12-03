@@ -65,3 +65,6 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 - https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
 - https://franciscorequena.com/post/roc-curves-an-animated-example/
 - https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
+
+## More ..
+https://datascience.stackexchange.com/a/24051
