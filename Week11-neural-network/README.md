@@ -18,6 +18,7 @@ The loss function is used to calculate the total error (sum of squared error). T
 calculate the gradient of the loss function with respect to each weight and bias.
 ```
 ## Great resources
-1. https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ 
-2. Neural circuit policies enabling auditable autonomy 
-- &nbsp;&nbsp;&nbsp; [![Neural circuit policies](https://img.youtube.com/vi/wAa358pNDkQ/0.jpg)](https://www.youtube.com/watch?v=wAa358pNDkQ)
+1. <b>Backpropagation:</b> https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ 
+2. <b>Backpropagation:</b> Backpropagation: http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
+3. Interesting paper: Neural circuit policies enabling auditable autonomy 
+&nbsp;&nbsp;&nbsp; [![Neural circuit policies](https://img.youtube.com/vi/wAa358pNDkQ/0.jpg)](https://www.youtube.com/watch?v=wAa358pNDkQ)
