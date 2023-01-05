@@ -4,12 +4,12 @@
 | 1     |     Introduction |
 | 2     |     Single variable Linear Regression |
 | 3     |     Multiple variables Linear Regression |
-| 4     |     Workshop I: Deploy ML application I |
+| 4     |     Workshop I: Introduction to Kaggle |
 | 5     |     Logistic Regression | 
 | 6     |     Regularization |
 | 7     |     Evaluation |
-| 8     |     Workshop II: Deploy ML application II | 
-| -     |     | Midterm exam (30%) |
+| 8     |     Workshop II | 
+| -     |     | Midterm exam (30%) + Kaggle competition (20%) |
 | 9     |     KNN | 
 | 10    |     Decision tree |
 | 11    |     Neural network |
@@ -17,7 +17,8 @@
 | 13    |     Clustering: K-Means |
 | 14    |     PCA | 
 | 15    |     Modern ML techniques |
-| -    |      | Final exam (30%) + Kaggle competition (40%) |
+| -    |      | Final exam (30%) |
+| -    |      | Final project (20%) |
 
 
 # Reference
