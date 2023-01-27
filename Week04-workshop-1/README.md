@@ -1,5 +1,3 @@
 # Readme
-
-pip install -r requirements.txt
-
+Docker cheat sheet
 https://docs.docker.com/get-started/docker_cheatsheet.pdf
