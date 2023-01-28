@@ -1,3 +1,6 @@
 # Readme
-Docker cheat sheet
-https://docs.docker.com/get-started/docker_cheatsheet.pdf
+Docker cheat sheet </br>
+https://docs.docker.com/get-started/docker_cheatsheet.pdf </br>
+
+Kaggle study </br>
+https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python
