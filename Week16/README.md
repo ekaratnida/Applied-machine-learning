@@ -9,3 +9,7 @@
 ## Reference: 
 - https://www.sravikiran.com/GSOC18//2018/05/16/optimizers/
 - https://huyenchip.com/ml-interviews-book/contents/2.1.1.1-technical-skills.html
+
+## Jargon
+- i.i.d. https://deepai.org/machine-learning-glossary-and-terms/independent-and-identically-distributed-random-variables
+
