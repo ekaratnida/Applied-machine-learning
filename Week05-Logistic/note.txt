@@ -1,0 +1,4 @@
+"A set of variables is independent and identically distributed (IID) if 
+(a) the variables are all mutually independent (see independence) and 
+(b) the variables are all drawn from the same probability distribution."
+deepai
