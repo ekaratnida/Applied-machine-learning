@@ -1,3 +1,6 @@
+# To read
+https://towardsdatascience.com/the-mystery-of-feature-scaling-is-finally-solved-29a7bb58efc2
+
 # Dataset
 
 https://jamesmccaffrey.wordpress.com/2018/03/14/datasets-for-binary-classification/
