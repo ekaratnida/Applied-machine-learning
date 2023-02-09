@@ -1,5 +1,5 @@
-# To read
-https://towardsdatascience.com/the-mystery-of-feature-scaling-is-finally-solved-29a7bb58efc2
+# SHAP
+https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html
 
 # Dataset
 
