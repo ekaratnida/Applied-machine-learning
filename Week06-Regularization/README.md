@@ -1,10 +1,5 @@
 ## Reference
 
-Lasso: 
-- https://www.ccs.neu.edu/home/eelhami/courses/EE290A/LASSO_Tibshirani.pdf
-- http://www.cs.cmu.edu/~ggordon/10725-F12/slides/08-general-gd.pdf
-- https://xavierbourretsicotte.github.io/lasso_derivation.html
-
 Overfitting ภาพลวงตาของระบบการลงทุน: https://www.siamquant.com/illusion-of-overfitting/?fbclid=IwAR0jSMSHURwhmJ3Y1XYIcmtAsTFqyBa6ihcuC7j1uZSCEQntbPiHiN4X0pQ
 
 How ridge and lasso work?: 
@@ -12,10 +7,6 @@ How ridge and lasso work?:
 - https://www.linkedin.com/pulse/tutorial-ridge-lasso-regression-subhajit-mondal/?trk=read_related_article-card_title
 
 Explain: https://towardsdatascience.com/regularization-in-machine-learning-connecting-the-dots-c6e030bfaddd
-
-## EDA example
-
-https://www.stat.cmu.edu/capstoneresearch/315files_s22/team18.html
 
 ## Ridge VS Lasso
 ![lasso](https://user-images.githubusercontent.com/69342162/217750172-e885491a-9373-436f-9eb6-0ac81fb22c33.gif)
