@@ -16,3 +16,6 @@ Explain: https://towardsdatascience.com/regularization-in-machine-learning-conne
 ## EDA example
 
 https://www.stat.cmu.edu/capstoneresearch/315files_s22/team18.html
+
+## Ridge VS Lasso
+![lasso](https://user-images.githubusercontent.com/69342162/217750172-e885491a-9373-436f-9eb6-0ac81fb22c33.gif)
