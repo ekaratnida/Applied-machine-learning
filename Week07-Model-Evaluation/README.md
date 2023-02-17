@@ -66,8 +66,6 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
 ## ROC AUC
 - https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
-- https://franciscorequena.com/post/roc-curves-an-animated-example/
-- https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
 - https://github.com/akshaykapoor347/Compute-AUC-ROC-from-scratch-python/blob/master/AUCROCPython.ipynb
 - https://paulvanderlaken.com/2019/08/16/roc-auc-precision-and-recall-visually-explained/
 
