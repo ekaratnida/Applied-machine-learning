@@ -70,7 +70,6 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 - https://paulvanderlaken.com/2019/08/16/roc-auc-precision-and-recall-visually-explained/
 - https://datascience.stackexchange.com/a/24051
 - https://www.datascienceblog.net/post/machine-learning/interpreting-roc-curves-auc/
-- https://medium.com/@douglaspsteen/precision-recall-curves-d32e5b290248
 
 ## SHAP
-https://www.kaggle.com/learn/machine-learning-explainability
+- https://www.kaggle.com/learn/machine-learning-explainability
