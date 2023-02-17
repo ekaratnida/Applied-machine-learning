@@ -56,6 +56,7 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 - https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
 - https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#:~:text=The%20precision%2Drecall%20curve%20shows,a%20low%20false%20negative%20rate.
 - https://en.wikipedia.org/wiki/Precision_and_recall
+- https://stackoverflow.com/questions/26355942/why-is-the-f-measure-a-harmonic-mean-and-not-an-arithmetic-mean-of-the-precision
 
 ## Multi-class
 - https://vitalflux.com/micro-average-macro-average-scoring-metrics-multi-class-classification-python/
