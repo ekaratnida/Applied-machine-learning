@@ -47,8 +47,9 @@ Evidently Ai
 https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
 ## Good example of precision and recall
-- "For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
-- For YouTube recommendations, false-negatives is less of a concern. Precision is better here." https://datascience.stackexchange.com/a/30882
+- Example
+  - "For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
+  - For YouTube recommendations, false-negatives is less of a concern. Precision is better here." https://datascience.stackexchange.com/a/30882
 - https://forecasters.org/wp-content/uploads/gravity_forms/7-621289a708af3e7af65a7cd487aee6eb/2015/07/Kolassa_Stephan_ISF2015.pdf
 - https://blog.clairvoyantsoft.com/churning-the-confusion-out-of-the-confusion-matrix-b74fb806e66
 - Recall: https://c3.ai/glossary/data-science/recall/
