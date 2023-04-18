@@ -11,7 +11,8 @@ https://www.analyticsvidhya.com/blog/2021/04/introduction-to-softmax-for-neural-
 
 ## Should read [P.413 ~ 459]
 https://github.com/probml/pml-book/releases/latest/download/book1.pdf </br>
-https://www.3blue1brown.com/lessons/backpropagation-calculus
+https://www.3blue1brown.com/lessons/backpropagation-calculus </br>
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 
 ```
 In the forward propagate stage, the data flows through the network to get the outputs. 
