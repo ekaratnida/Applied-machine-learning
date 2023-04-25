@@ -12,6 +12,10 @@ Credit card dataset: https://www.kaggle.com/code/pierra/credit-card-dataset-svm-
 
 https://www.mltut.com/svm-implementation-in-python-from-scratch/
 
+https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-examples
+
+https://www.baeldung.com/cs/svm-hard-margin-vs-soft-margin
+
 ## Paper
 
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.356&rep=rep1&type=pdf
