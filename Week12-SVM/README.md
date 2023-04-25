@@ -16,6 +16,8 @@ https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivar
 
 https://www.baeldung.com/cs/svm-hard-margin-vs-soft-margin
 
+https://mast.queensu.ca/~math121/Assignments/Unit23_solutions.pdf
+
 ## Paper
 
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.356&rep=rep1&type=pdf
