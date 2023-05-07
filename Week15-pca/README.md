@@ -14,3 +14,5 @@ https://www.kaggle.com/code/nirajvermafcb/principal-component-analysis-explained
 
 Visualization
 https://setosa.io/ev/principal-component-analysis/
+
+https://github.com/scentellegher/code_snippets/blob/master/pca_loadings/pca_loadings.ipynb
