@@ -3,6 +3,7 @@
   stateDiagram-v2
   [*]-->still
   ```
+![image](https://user-images.githubusercontent.com/69342162/236677484-0cb9e05b-c122-4d46-9456-6145ab3425be.png)
 
 
 Example: Interpretation of the Principal Components </br>
