@@ -17,3 +17,6 @@
 ## Advanced
 Multioutput classification </br>
 - https://www.section.io/engineering-education/multi-output-classification-with-machine-learning/
+
+## Practice paper
+- https://arxiv.org/ftp/arxiv/papers/2107/2107.00436.pdf
