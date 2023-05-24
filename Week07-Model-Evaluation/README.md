@@ -73,3 +73,7 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
 ## SHAP
 - https://www.kaggle.com/learn/machine-learning-explainability
+
+## Theory
+- Cross validation https://arxiv.org/pdf/2104.00673.pdf
+- 
