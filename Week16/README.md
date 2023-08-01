@@ -20,3 +20,7 @@ Multioutput classification </br>
 
 ## Practice paper
 - https://arxiv.org/ftp/arxiv/papers/2107/2107.00436.pdf
+
+## Lecture notes
+- Probability https://engineering.purdue.edu/ChanGroup/ECE302/files/Slide_3_02.pdf
+- 
