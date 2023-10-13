@@ -110,3 +110,7 @@ https://www.bc.edu/content/dam/files/schools/cas_sites/cs/pdf/academics/honors/1
 
 ### Machine learning กับ ธนาคาร
 https://www.gsbresearch.or.th/wp-content/uploads/2018/06/20IN_hotissue_AI_internet_detail.pdf
+
+## Great video lecture
+- https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E&index=1
+- 
