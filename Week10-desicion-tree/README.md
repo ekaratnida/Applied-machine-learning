@@ -25,3 +25,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClass
 
 ## SHAP
 https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf
+
+## Regression
+https://saedsayad.com/decision_tree_reg.htm#:~:text=Decision%20tree%20builds%20regression%20or,decision%20nodes%20and%20leaf%20nodes.
