@@ -77,4 +77,7 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
 ## Theory
 - Cross validation https://arxiv.org/pdf/2104.00673.pdf
-- 
+
+## 2024
+- https://medium.com/@avijit.bhattacharjee1996/implementing-k-fold-cross-validation-from-scratch-in-python-ae413b41c80d
+- https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right
