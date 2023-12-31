@@ -7,4 +7,7 @@
 ## Good EDA tutorial
 - https://www.kaggle.com/code/dhruv1234/iris-exploratory-data-analysis
 - Library https://github.com/ydataai/ydata-profiling
+
+## 2024
+- https://github.com/vamc-stash/Naive-Bayes/blob/master/src/GaussianNB.py
 - 
