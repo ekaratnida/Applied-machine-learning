@@ -49,9 +49,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun createORTSession(ortEnvironment: OrtEnvironment?): OrtSession? {
         val modelFile = resources.openRawResource(R.raw.house_price_model).readBytes()
-
         return ortEnvironment?.createSession(modelFile)
-
-
     }
 }
