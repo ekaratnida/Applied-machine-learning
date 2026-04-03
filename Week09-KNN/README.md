@@ -7,3 +7,7 @@ Probability distribution
 
 https://www.datacamp.com/community/tutorials/probability-distributions-python </br>
 https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/
+
+### Appendix
+k-NN issues = https://docs.google.com/document/d/18pVi7iH4Oh9JzWE0l6LeImVKsGK9UDUwZlSpgE0ZRSg/edit?tab=t.0
+
