@@ -1,0 +1,9 @@
+factory_id,factory_name,province,tis_no,cert_date
+1,Factory A,Bangkok,มอก.1234-2565,2025-06-16
+2,Factory B,Chiang Mai,มอก.5678-2564,2025-12-18
+3,Factory C,Rayong,มอก.9012-2566,2026-04-27
+4,Factory D,Bangkok,มอก.3456-2565,2025-11-28
+5,Factory E,Songkhla,มอก.7890-2564,2025-05-12
+6,Factory F,Phuket,มอก.1111-2565,2026-03-08
+7,Factory G,Nakhon Ratchasima,มอก.2222-2566,2025-10-09
+8,Factory H,Chonburi,มอก.3333-2564,2025-02-01
