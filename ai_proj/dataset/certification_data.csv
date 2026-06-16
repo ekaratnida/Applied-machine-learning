@@ -1,0 +1,201 @@
+﻿cert_id,tis_no,factory_name,factory_size,province,industry_type,cert_count,cert_date,month,sugar_price,product_type,years_certified,num_audit_findings,non_compliant,gdp_growth,new_factory_count,import_tariff,industry_index,application_count
+1,มอก.559-2562,Factory R (Kamphaeng Phet),200,Kamphaeng Phet,Automotive,28,2019-01-27,1,20.62,1,2,9,0,5.61,1,21.96,109.93,470
+2,มอก.216-2565,Factory Y (Udon Thani),2000,Udon Thani,Agriculture,27,2022-11-08,11,17.34,3,24,4,1,-0.75,7,1.74,123.31,452
+3,มอก.820-2562,Factory X (Kanchanaburi),500,Kanchanaburi,Chemical,27,2019-03-14,3,24.02,3,24,7,0,3.66,3,0.62,128.5,205
+4,มอก.880-2560,Factory O (Nakhon Ratchasima),500,Nakhon Ratchasima,Metal,20,2017-08-08,8,27.49,1,8,0,0,-0.3,12,5.45,89.17,178
+5,มอก.886-2564,Factory U (Saraburi),2000,Saraburi,Agriculture,26,2021-02-25,2,19.56,3,18,10,1,2.2,3,12.96,94.56,459
+6,มอก.183-2564,Factory T (Ratchaburi),1000,Ratchaburi,Food,23,2021-10-09,10,24.18,3,11,13,0,-0.88,16,8.76,98.32,69
+7,มอก.922-2566,Factory W (Saraburi),1000,Saraburi,Food,1,2023-10-07,10,21.84,3,18,6,0,4.28,2,5.99,105.71,495
+8,มอก.639-2565,Factory J (Udon Thani),2000,Udon Thani,Electronics,20,2022-06-22,6,23.89,3,14,10,0,-1.63,9,18.23,88.53,293
+9,มอก.197-2562,Factory X (Phitsanulok),200,Phitsanulok,Electronics,40,2019-07-22,7,15.98,3,10,12,0,5.59,0,28.97,120.42,165
+10,มอก.216-2564,Factory U (Nong Khai),500,Nong Khai,Automotive,30,2021-07-26,7,19.57,2,15,6,0,-1.22,5,20.53,102.01,347
+11,มอก.291-2561,Factory C (Maha Sarakham),200,Maha Sarakham,Agriculture,44,2018-09-22,9,16.83,2,8,6,0,1.96,1,1.03,125.47,135
+12,มอก.626-2567,Factory S (Chiang Mai),200,Chiang Mai,Electronics,46,2024-02-15,2,18.88,3,13,15,0,3.3,4,9.35,106.0,345
+13,มอก.915-2560,Factory F (Chiang Mai),5000,Chiang Mai,Chemical,34,2017-02-25,2,23.2,2,2,7,1,-0.52,3,29.09,118.76,243
+14,มอก.821-2562,Factory T (Phetchabun),500,Phetchabun,Automotive,49,2019-08-22,8,29.09,2,20,13,0,5.16,17,17.94,126.09,238
+15,มอก.762-2562,Factory H (Saraburi),5000,Saraburi,Metal,18,2019-08-15,8,16.33,3,16,7,0,-0.43,2,1.36,96.27,375
+16,มอก.241-2564,Factory C (Nakhon Sawan),200,Nakhon Sawan,Automotive,10,2021-05-11,5,20.83,1,13,4,0,0.17,2,24.86,97.84,222
+17,มอก.339-2566,Factory G (Chiang Mai),1000,Chiang Mai,Food,25,2023-09-15,9,19.21,3,23,0,1,2.34,18,4.23,120.11,204
+18,มอก.7-2567,Factory N (Phitsanulok),2000,Phitsanulok,Metal,48,2024-06-10,6,16.12,3,18,7,0,5.9,8,23.17,89.94,233
+19,มอก.30-2567,Factory F (Phitsanulok),1000,Phitsanulok,Electronics,9,2024-07-11,7,15.08,3,18,0,1,4.52,18,21.21,116.45,298
+20,มอก.86-2560,Factory O (Khon Kaen),200,Khon Kaen,Metal,4,2017-11-14,11,26.57,2,13,10,0,-1.41,10,10.75,85.79,182
+21,มอก.285-2566,Factory A (Suphan Buri),5000,Suphan Buri,Textile,35,2023-07-09,7,27.95,1,12,7,0,2.99,20,9.93,83.18,30
+22,มอก.973-2560,Factory E (Kanchanaburi),200,Kanchanaburi,Automotive,9,2017-04-07,4,19.66,2,22,3,0,0.6,6,21.89,111.88,248
+23,มอก.786-2564,Factory X (Maha Sarakham),5000,Maha Sarakham,Automotive,8,2021-06-06,6,28.31,1,10,3,0,1.78,9,3.59,115.66,304
+24,มอก.407-2566,Factory W (Suphan Buri),5000,Suphan Buri,Automotive,16,2023-12-07,12,26.41,1,23,9,1,2.49,19,23.13,104.69,422
+25,มอก.816-2561,Factory R (Ratchaburi),1000,Ratchaburi,Agriculture,43,2018-10-26,10,22.84,2,3,10,0,1.42,13,0.76,85.39,431
+26,มอก.109-2567,Factory E (Tak),1000,Tak,Electronics,12,2024-07-12,7,15.47,3,17,8,0,3.09,17,9.43,105.43,406
+27,มอก.477-2567,Factory K (Nong Khai),200,Nong Khai,Agriculture,6,2024-07-27,7,28.61,2,15,7,0,-0.01,18,12.31,117.78,322
+28,มอก.345-2566,Factory P (Nakhon Sawan),200,Nakhon Sawan,Chemical,23,2023-01-16,1,18.43,2,11,8,1,-1.38,8,8.69,88.06,294
+29,มอก.530-2560,Factory N (Lop Buri),1000,Lop Buri,Electronics,36,2017-04-03,4,28.95,1,23,15,0,4.46,15,19.0,123.57,239
+30,มอก.96-2560,Factory H (Phitsanulok),500,Phitsanulok,Electronics,43,2017-05-08,5,27.06,3,12,15,0,-0.51,11,26.78,106.97,227
+31,มอก.339-2568,Factory J (Tak),500,Tak,Agriculture,15,2025-06-23,6,27.11,1,24,6,0,5.17,17,9.54,85.5,496
+32,มอก.197-2562,Factory X (Sukhothai),2000,Sukhothai,Agriculture,49,2019-04-24,4,18.42,3,20,9,1,1.42,6,24.54,123.04,161
+33,มอก.370-2563,Factory R (Kanchanaburi),200,Kanchanaburi,Electronics,18,2020-03-10,3,15.1,1,2,9,0,2.09,4,12.52,91.11,336
+34,มอก.106-2567,Factory P (Uthai Thani),1000,Uthai Thani,Textile,22,2024-01-19,1,16.8,1,2,8,1,0.7,15,28.29,96.16,68
+35,มอก.411-2561,Factory V (Nong Khai),100,Nong Khai,Electronics,10,2018-08-03,8,22.78,1,19,9,0,3.62,7,10.91,128.59,70
+36,มอก.783-2568,Factory T (Maha Sarakham),200,Maha Sarakham,Metal,50,2025-07-20,7,29.44,3,13,14,1,0.01,9,14.92,95.04,450
+37,มอก.313-2566,Factory X (Ratchaburi),100,Ratchaburi,Automotive,49,2023-10-20,10,19.27,1,21,6,0,-1.7,2,18.29,105.13,90
+38,มอก.178-2563,Factory N (Chaiyaphum),1000,Chaiyaphum,Food,45,2020-09-03,9,15.77,3,16,9,0,0.23,9,27.25,91.98,371
+39,มอก.720-2564,Factory Z (Lop Buri),5000,Lop Buri,Agriculture,38,2021-08-03,8,17.17,3,7,13,0,1.92,7,29.57,92.1,341
+40,มอก.931-2562,Factory B (Khon Kaen),200,Khon Kaen,Food,20,2019-05-27,5,25.08,3,24,9,0,4.09,14,7.13,116.41,362
+41,มอก.717-2564,Factory P (Phetchabun),1000,Phetchabun,Automotive,6,2021-07-09,7,20.52,3,2,13,0,3.06,19,19.01,106.79,138
+42,มอก.94-2560,Factory A (Nong Khai),5000,Nong Khai,Automotive,18,2017-04-22,4,16.35,3,2,5,0,4.68,20,9.62,89.33,236
+43,มอก.186-2564,Factory P (Sukhothai),500,Sukhothai,Food,27,2021-10-14,10,15.61,2,11,3,1,2.73,10,20.33,80.83,220
+44,มอก.296-2567,Factory O (Loei),100,Loei,Food,21,2024-11-13,11,22.68,2,11,3,1,-0.19,12,19.36,88.72,452
+45,มอก.845-2568,Factory N (Loei),100,Loei,Textile,13,2025-01-22,1,25.36,3,12,15,0,1.09,1,28.1,86.88,114
+46,มอก.563-2564,Factory P (Tak),100,Tak,Electronics,2,2021-03-10,3,20.12,3,20,7,0,-1.09,9,27.74,123.87,292
+47,มอก.566-2560,Factory D (Lop Buri),1000,Lop Buri,Metal,8,2017-07-03,7,18.87,3,5,15,1,3.28,9,24.52,107.76,270
+48,มอก.426-2564,Factory R (Lop Buri),200,Lop Buri,Textile,25,2021-08-16,8,22.94,1,20,4,1,-0.07,8,2.79,124.86,405
+49,มอก.349-2566,Factory X (Kanchanaburi),500,Kanchanaburi,Agriculture,38,2023-09-09,9,28.51,3,22,15,1,3.06,14,10.17,97.46,285
+50,มอก.354-2567,Factory O (Loei),500,Loei,Textile,13,2024-06-18,6,25.89,3,8,12,0,5.18,13,26.61,118.99,32
+51,มอก.763-2565,Factory V (Phitsanulok),5000,Phitsanulok,Textile,10,2022-08-23,8,24.63,2,2,4,0,-1.33,18,4.85,124.93,179
+52,มอก.896-2561,Factory A (Phetchabun),5000,Phetchabun,Textile,10,2018-08-04,8,24.1,2,21,4,0,-1.93,8,3.04,113.18,183
+53,มอก.666-2566,Factory V (Nakhon Sawan),2000,Nakhon Sawan,Metal,25,2023-02-28,2,15.08,2,21,15,1,-0.71,1,16.46,114.59,326
+54,มอก.241-2561,Factory X (Uthai Thani),100,Uthai Thani,Chemical,28,2018-11-22,11,24.78,1,25,3,0,-0.21,9,21.37,91.86,472
+55,มอก.48-2560,Factory L (Ratchaburi),500,Ratchaburi,Agriculture,28,2017-06-26,6,19.88,1,8,13,0,3.97,5,19.49,122.46,97
+56,มอก.81-2562,Factory V (Phitsanulok),200,Phitsanulok,Automotive,32,2019-10-28,10,24.86,3,5,7,0,2.55,8,2.81,98.39,245
+57,มอก.683-2564,Factory V (Tak),2000,Tak,Agriculture,11,2021-01-26,1,18.98,1,15,11,1,-0.05,9,29.19,99.65,337
+58,มอก.707-2566,Factory M (Uthai Thani),1000,Uthai Thani,Chemical,7,2023-05-15,5,28.38,1,13,11,0,3.05,9,23.84,105.13,21
+59,มอก.282-2566,Factory X (Ratchaburi),1000,Ratchaburi,Automotive,19,2023-01-19,1,23.65,1,20,11,0,1.94,6,5.86,116.12,327
+60,มอก.695-2564,Factory D (Khon Kaen),5000,Khon Kaen,Electronics,42,2021-12-25,12,19.21,1,10,14,0,-1.81,11,19.36,88.86,384
+61,มอก.93-2562,Factory G (Chiang Mai),200,Chiang Mai,Chemical,35,2019-05-11,5,29.11,2,17,8,0,5.63,8,27.45,98.51,477
+62,มอก.991-2567,Factory D (Nakhon Sawan),1000,Nakhon Sawan,Metal,5,2024-05-24,5,15.23,1,25,7,1,5.43,12,12.85,128.33,443
+63,มอก.375-2568,Factory I (Phitsanulok),2000,Phitsanulok,Food,8,2025-02-26,2,29.45,2,12,8,0,4.82,20,8.83,99.25,491
+64,มอก.111-2565,Factory T (Sukhothai),2000,Sukhothai,Food,21,2022-11-08,11,27.77,3,8,2,0,0.54,14,5.08,107.84,475
+65,มอก.665-2564,Factory B (Khon Kaen),500,Khon Kaen,Food,32,2021-07-04,7,29.04,1,4,7,1,3.57,4,17.1,84.86,208
+66,มอก.380-2567,Factory S (Loei),5000,Loei,Textile,47,2024-11-24,11,24.23,1,14,3,0,5.92,19,4.2,105.92,218
+67,มอก.34-2564,Factory O (Nakhon Ratchasima),200,Nakhon Ratchasima,Textile,24,2021-12-12,12,28.16,1,22,11,0,3.93,20,20.91,115.12,193
+68,มอก.408-2560,Factory O (Udon Thani),100,Udon Thani,Metal,43,2017-05-07,5,20.39,1,21,0,0,0.35,10,24.28,120.51,134
+69,มอก.806-2562,Factory Y (Suphan Buri),2000,Suphan Buri,Metal,14,2019-10-07,10,28.01,3,7,7,0,5.31,4,15.34,105.08,413
+70,มอก.284-2560,Factory Z (Loei),200,Loei,Agriculture,8,2017-03-05,3,26.97,3,1,4,0,3.2,7,21.06,119.79,311
+71,มอก.17-2565,Factory X (Ratchaburi),1000,Ratchaburi,Chemical,34,2022-03-09,3,28.35,1,24,2,0,0.7,11,11.27,84.7,272
+72,มอก.463-2561,Factory X (Maha Sarakham),5000,Maha Sarakham,Food,34,2018-09-08,9,23.67,2,15,0,0,-1.71,15,13.97,107.13,443
+73,มอก.437-2566,Factory O (Sukhothai),100,Sukhothai,Electronics,6,2023-11-04,11,19.3,2,20,4,0,2.73,8,0.92,81.87,329
+74,มอก.730-2568,Factory J (Maha Sarakham),1000,Maha Sarakham,Automotive,33,2025-06-13,6,27.34,3,14,3,0,0.88,3,3.81,106.11,446
+75,มอก.739-2568,Factory N (Tak),500,Tak,Chemical,30,2025-04-14,4,26.55,2,14,3,0,-0.27,10,18.69,84.27,350
+76,มอก.384-2564,Factory C (Sukhothai),100,Sukhothai,Food,6,2021-03-22,3,15.78,2,4,11,0,2.25,17,16.22,111.87,40
+77,มอก.576-2568,Factory L (Udon Thani),5000,Udon Thani,Textile,49,2025-06-22,6,25.89,2,24,1,1,5.81,19,15.49,96.15,169
+78,มอก.107-2565,Factory V (Nakhon Ratchasima),1000,Nakhon Ratchasima,Chemical,15,2022-10-17,10,26.93,1,12,11,0,0.17,8,13.17,83.92,303
+79,มอก.827-2563,Factory T (Loei),2000,Loei,Metal,44,2020-07-28,7,15.38,3,18,0,0,5.7,8,25.08,114.8,24
+80,มอก.280-2562,Factory L (Uthai Thani),100,Uthai Thani,Agriculture,12,2019-12-25,12,21.13,1,19,12,0,-0.61,20,4.69,92.51,25
+81,มอก.765-2561,Factory O (Phitsanulok),500,Phitsanulok,Textile,11,2018-09-07,9,23.24,2,10,10,0,3.72,18,19.81,94.0,315
+82,มอก.905-2561,Factory T (Chaiyaphum),100,Chaiyaphum,Metal,44,2018-01-05,1,29.32,1,9,14,0,3.9,15,16.63,110.59,320
+83,มอก.425-2567,Factory L (Phetchabun),1000,Phetchabun,Food,8,2024-05-07,5,21.29,2,22,15,0,-0.02,9,10.68,117.89,33
+84,มอก.405-2563,Factory J (Kanchanaburi),200,Kanchanaburi,Chemical,50,2020-10-02,10,15.22,1,25,8,0,-1.07,3,1.38,82.04,13
+85,มอก.765-2567,Factory R (Khon Kaen),5000,Khon Kaen,Textile,15,2024-07-06,7,27.83,3,18,11,0,3.63,1,14.23,84.89,233
+86,มอก.471-2560,Factory N (Nakhon Sawan),2000,Nakhon Sawan,Automotive,26,2017-02-28,2,22.37,3,21,13,0,1.79,12,5.2,101.69,20
+87,มอก.176-2565,Factory N (Kamphaeng Phet),100,Kamphaeng Phet,Food,16,2022-10-15,10,20.98,2,19,12,0,2.93,12,19.05,82.27,455
+88,มอก.764-2564,Factory F (Nakhon Sawan),100,Nakhon Sawan,Metal,33,2021-06-08,6,20.62,3,4,6,1,3.01,11,15.09,122.82,189
+89,มอก.242-2562,Factory F (Saraburi),2000,Saraburi,Chemical,10,2019-02-05,2,24.88,3,3,5,1,-0.7,20,2.12,112.12,262
+90,มอก.773-2567,Factory V (Nong Khai),2000,Nong Khai,Textile,42,2024-10-25,10,15.4,3,20,10,1,2.69,20,28.21,108.77,171
+91,มอก.451-2562,Factory J (Tak),500,Tak,Electronics,38,2019-02-16,2,20.82,1,12,2,0,3.15,14,13.75,107.28,29
+92,มอก.378-2560,Factory T (Suphan Buri),2000,Suphan Buri,Automotive,25,2017-05-03,5,29.12,2,19,1,0,1.09,18,28.84,125.27,343
+93,มอก.330-2563,Factory B (Phetchabun),1000,Phetchabun,Chemical,7,2020-10-16,10,17.94,2,23,2,0,-1.45,5,3.02,80.91,30
+94,มอก.725-2563,Factory T (Phetchabun),200,Phetchabun,Automotive,24,2020-08-15,8,16.42,2,10,12,0,3.46,10,2.14,95.95,357
+95,มอก.809-2560,Factory K (Nakhon Sawan),100,Nakhon Sawan,Food,36,2017-11-21,11,27.67,3,13,9,0,-1.81,19,24.43,94.09,457
+96,มอก.342-2562,Factory J (Khon Kaen),5000,Khon Kaen,Agriculture,45,2019-02-19,2,16.77,3,13,4,0,3.57,2,18.87,123.87,168
+97,มอก.386-2568,Factory E (Nakhon Sawan),5000,Nakhon Sawan,Metal,45,2025-11-26,11,26.03,3,22,2,0,4.43,13,8.46,88.87,270
+98,มอก.19-2565,Factory K (Chaiyaphum),1000,Chaiyaphum,Chemical,13,2022-06-10,6,26.26,1,5,4,0,4.45,3,29.72,100.63,269
+99,มอก.856-2568,Factory K (Ratchaburi),2000,Ratchaburi,Electronics,9,2025-12-17,12,20.58,3,13,4,0,4.21,19,10.22,126.54,424
+100,มอก.739-2562,Factory V (Chiang Mai),5000,Chiang Mai,Agriculture,16,2019-08-02,8,27.88,2,20,9,0,1.43,14,22.53,117.73,129
+101,มอก.245-2568,Factory G (Sukhothai),500,Sukhothai,Metal,44,2025-05-26,5,16.55,3,15,14,0,5.22,12,15.16,121.32,267
+102,มอก.429-2568,Factory T (Nakhon Ratchasima),200,Nakhon Ratchasima,Metal,17,2025-03-27,3,19.8,1,21,15,1,5.16,17,11.68,80.54,488
+103,มอก.729-2561,Factory C (Udon Thani),200,Udon Thani,Agriculture,18,2018-09-28,9,28.58,2,17,4,0,-1.27,2,9.58,127.5,494
+104,มอก.837-2563,Factory B (Kanchanaburi),1000,Kanchanaburi,Textile,33,2020-08-12,8,29.26,2,8,12,1,2.59,11,18.96,102.42,124
+105,มอก.327-2560,Factory E (Nakhon Sawan),200,Nakhon Sawan,Metal,3,2017-02-27,2,19.4,2,16,4,0,0.63,15,20.18,117.62,239
+106,มอก.928-2560,Factory E (Saraburi),2000,Saraburi,Chemical,47,2017-02-01,2,26.87,3,17,13,0,4.32,9,2.74,104.72,131
+107,มอก.125-2564,Factory Z (Chiang Mai),2000,Chiang Mai,Electronics,30,2021-01-08,1,15.86,1,4,15,0,2.4,0,13.25,124.39,333
+108,มอก.589-2568,Factory N (Khon Kaen),100,Khon Kaen,Agriculture,40,2025-04-23,4,20.26,2,8,13,0,-1.06,2,4.29,118.08,278
+109,มอก.70-2565,Factory Q (Phetchabun),2000,Phetchabun,Metal,2,2022-09-18,9,24.27,2,16,1,0,-1.19,11,2.52,115.05,139
+110,มอก.366-2560,Factory V (Lop Buri),5000,Lop Buri,Electronics,7,2017-02-12,2,16.09,3,24,10,0,4.57,11,21.19,84.07,289
+111,มอก.834-2565,Factory P (Tak),5000,Tak,Electronics,12,2022-11-06,11,16.27,1,3,14,0,5.89,6,11.23,98.53,32
+112,มอก.908-2563,Factory M (Uthai Thani),2000,Uthai Thani,Automotive,31,2020-01-11,1,27.19,2,2,6,0,5.58,1,29.58,117.67,453
+113,มอก.280-2565,Factory M (Kamphaeng Phet),5000,Kamphaeng Phet,Textile,29,2022-02-26,2,20.64,2,11,5,0,-1.33,15,23.31,107.92,198
+114,มอก.274-2568,Factory N (Chiang Mai),2000,Chiang Mai,Food,12,2025-02-24,2,21.36,3,10,10,0,5.25,10,3.34,104.63,348
+115,มอก.314-2564,Factory W (Chiang Mai),1000,Chiang Mai,Chemical,23,2021-08-20,8,15.17,2,2,11,0,1.75,13,1.69,85.94,150
+116,มอก.77-2560,Factory Q (Phitsanulok),5000,Phitsanulok,Agriculture,44,2017-11-21,11,16.76,1,1,4,0,3.19,14,22.38,109.17,27
+117,มอก.69-2562,Factory M (Kamphaeng Phet),2000,Kamphaeng Phet,Agriculture,3,2019-04-25,4,29.43,3,5,14,1,1.0,11,8.57,123.43,237
+118,มอก.588-2561,Factory K (Kamphaeng Phet),5000,Kamphaeng Phet,Textile,18,2018-03-17,3,18.35,1,4,0,0,5.71,15,0.36,128.49,275
+119,มอก.936-2566,Factory I (Saraburi),5000,Saraburi,Metal,29,2023-09-04,9,15.65,1,20,9,0,5.13,15,15.83,129.65,112
+120,มอก.139-2561,Factory O (Chaiyaphum),100,Chaiyaphum,Electronics,44,2018-02-15,2,16.11,2,22,11,0,2.43,17,29.08,106.15,287
+121,มอก.913-2564,Factory W (Chaiyaphum),5000,Chaiyaphum,Electronics,41,2021-05-28,5,24.44,1,12,7,0,3.57,6,13.64,111.38,415
+122,มอก.243-2562,Factory S (Kamphaeng Phet),500,Kamphaeng Phet,Automotive,30,2019-08-01,8,23.76,3,5,2,0,5.21,12,1.36,94.05,377
+123,มอก.539-2567,Factory S (Chiang Mai),100,Chiang Mai,Metal,9,2024-07-25,7,29.26,2,21,2,0,5.12,16,13.67,111.01,186
+124,มอก.900-2562,Factory Y (Nong Khai),200,Nong Khai,Chemical,28,2019-09-21,9,19.16,3,2,3,0,-0.5,9,13.91,97.67,94
+125,มอก.331-2562,Factory J (Kamphaeng Phet),100,Kamphaeng Phet,Automotive,17,2019-12-08,12,23.75,1,21,8,0,-1.38,9,29.23,129.31,324
+126,มอก.96-2568,Factory S (Chaiyaphum),200,Chaiyaphum,Automotive,11,2025-09-21,9,25.47,3,20,10,0,2.29,18,9.29,120.69,31
+127,มอก.84-2560,Factory U (Nong Khai),200,Nong Khai,Agriculture,50,2017-01-21,1,25.27,3,14,0,0,-0.7,20,27.33,121.13,289
+128,มอก.658-2564,Factory Z (Lop Buri),5000,Lop Buri,Metal,26,2021-05-16,5,29.25,2,15,2,0,3.81,5,18.4,100.91,235
+129,มอก.496-2566,Factory E (Nakhon Sawan),500,Nakhon Sawan,Automotive,46,2023-08-07,8,28.99,2,24,11,1,4.93,4,1.36,81.32,399
+130,มอก.528-2565,Factory O (Nakhon Sawan),100,Nakhon Sawan,Chemical,18,2022-09-04,9,20.65,2,8,4,0,4.48,9,29.62,87.52,494
+131,มอก.885-2566,Factory F (Lop Buri),500,Lop Buri,Metal,37,2023-10-14,10,23.91,3,11,6,0,1.05,15,29.1,122.11,273
+132,มอก.511-2567,Factory M (Kanchanaburi),2000,Kanchanaburi,Food,30,2024-05-16,5,27.57,1,7,11,0,1.75,9,12.44,93.67,263
+133,มอก.293-2567,Factory E (Udon Thani),500,Udon Thani,Textile,47,2024-09-01,9,15.85,2,25,12,0,4.92,12,24.39,129.99,36
+134,มอก.200-2568,Factory M (Uthai Thani),2000,Uthai Thani,Food,29,2025-06-18,6,29.95,3,9,3,0,2.44,3,23.07,127.24,211
+135,มอก.814-2565,Factory E (Kamphaeng Phet),200,Kamphaeng Phet,Metal,39,2022-06-18,6,27.74,3,13,1,0,-0.02,4,13.52,86.46,375
+136,มอก.824-2565,Factory T (Tak),2000,Tak,Chemical,9,2022-08-17,8,29.31,2,20,10,0,2.85,19,6.86,113.59,388
+137,มอก.608-2564,Factory P (Phetchabun),5000,Phetchabun,Automotive,37,2021-06-17,6,24.27,2,16,0,0,0.87,3,3.41,113.58,223
+138,มอก.816-2564,Factory P (Kanchanaburi),500,Kanchanaburi,Automotive,42,2021-12-28,12,22.8,3,19,7,0,4.18,18,15.6,122.61,255
+139,มอก.537-2562,Factory M (Maha Sarakham),200,Maha Sarakham,Metal,44,2019-11-24,11,23.28,1,2,3,0,2.49,14,26.3,100.17,170
+140,มอก.156-2566,Factory Q (Nakhon Ratchasima),2000,Nakhon Ratchasima,Textile,31,2023-07-23,7,17.01,3,24,1,0,-1.77,16,22.65,111.02,116
+141,มอก.333-2568,Factory K (Phetchabun),200,Phetchabun,Textile,30,2025-11-16,11,25.56,3,11,11,0,-0.3,20,4.09,80.73,421
+142,มอก.625-2564,Factory R (Lop Buri),500,Lop Buri,Agriculture,15,2021-08-07,8,20.26,2,25,9,0,2.72,15,11.77,101.87,172
+143,มอก.358-2567,Factory D (Saraburi),2000,Saraburi,Agriculture,44,2024-09-26,9,28.56,3,13,12,0,0.79,4,15.42,119.18,158
+144,มอก.295-2560,Factory U (Kamphaeng Phet),500,Kamphaeng Phet,Textile,48,2017-12-03,12,20.95,2,7,6,0,2.98,8,25.87,127.48,487
+145,มอก.713-2568,Factory X (Udon Thani),2000,Udon Thani,Automotive,16,2025-05-05,5,17.21,1,2,7,0,5.41,1,14.76,92.91,61
+146,มอก.339-2566,Factory Y (Udon Thani),200,Udon Thani,Electronics,1,2023-12-16,12,21.89,3,6,13,0,5.84,15,14.78,96.44,254
+147,มอก.775-2563,Factory B (Uthai Thani),100,Uthai Thani,Electronics,42,2020-05-11,5,24.5,3,8,1,1,-0.08,5,2.28,86.44,223
+148,มอก.957-2562,Factory P (Phitsanulok),200,Phitsanulok,Metal,48,2019-01-27,1,16.92,2,2,0,0,-0.78,19,4.16,112.04,64
+149,มอก.292-2565,Factory P (Loei),200,Loei,Automotive,33,2022-08-21,8,17.73,2,9,6,0,0.77,10,26.9,103.7,93
+150,มอก.664-2567,Factory X (Chaiyaphum),500,Chaiyaphum,Food,19,2024-05-23,5,25.01,3,22,6,0,-0.62,20,5.77,82.04,469
+151,มอก.847-2566,Factory M (Nakhon Sawan),5000,Nakhon Sawan,Food,7,2023-07-17,7,17.53,1,5,15,0,0.23,7,5.31,84.44,13
+152,มอก.393-2564,Factory J (Saraburi),2000,Saraburi,Agriculture,47,2021-04-15,4,16.81,3,1,8,0,1.69,7,6.19,98.21,41
+153,มอก.477-2561,Factory Q (Phitsanulok),5000,Phitsanulok,Electronics,50,2018-05-06,5,22.55,2,23,3,0,3.52,9,1.18,119.97,198
+154,มอก.225-2563,Factory X (Khon Kaen),2000,Khon Kaen,Textile,24,2020-03-16,3,24.42,2,23,15,0,-1.35,6,26.21,126.04,400
+155,มอก.697-2563,Factory O (Suphan Buri),2000,Suphan Buri,Automotive,46,2020-10-28,10,15.92,2,3,3,0,0.22,17,24.19,117.41,472
+156,มอก.208-2568,Factory K (Khon Kaen),2000,Khon Kaen,Chemical,29,2025-10-18,10,17.77,1,22,6,0,-0.33,15,11.11,104.23,56
+157,มอก.457-2568,Factory N (Khon Kaen),1000,Khon Kaen,Automotive,37,2025-01-15,1,24.27,1,18,14,0,0.95,9,13.88,117.37,380
+158,มอก.406-2560,Factory G (Kanchanaburi),2000,Kanchanaburi,Electronics,5,2017-05-27,5,15.55,1,14,11,0,0.02,17,21.4,124.76,40
+159,มอก.957-2561,Factory F (Uthai Thani),200,Uthai Thani,Textile,50,2018-08-02,8,22.68,3,24,13,0,2.26,12,3.22,102.37,239
+160,มอก.385-2566,Factory U (Loei),500,Loei,Chemical,8,2023-02-22,2,22.99,1,18,12,0,-0.06,7,8.08,98.86,437
+161,มอก.775-2560,Factory X (Tak),2000,Tak,Electronics,28,2017-01-10,1,15.3,3,13,7,0,0.58,11,6.34,96.37,89
+162,มอก.194-2564,Factory Z (Udon Thani),5000,Udon Thani,Food,27,2021-12-25,12,16.8,3,25,0,0,5.12,2,17.81,113.96,61
+163,มอก.458-2560,Factory X (Ratchaburi),100,Ratchaburi,Chemical,26,2017-10-22,10,26.84,2,8,6,0,1.99,1,2.61,106.86,81
+164,มอก.297-2568,Factory S (Nong Khai),2000,Nong Khai,Agriculture,50,2025-04-27,4,23.8,3,11,7,0,3.96,4,12.95,86.38,348
+165,มอก.227-2568,Factory R (Saraburi),2000,Saraburi,Food,48,2025-07-10,7,19.26,1,21,13,0,0.9,1,19.38,108.54,186
+166,มอก.805-2566,Factory E (Chiang Mai),500,Chiang Mai,Textile,25,2023-09-11,9,20.34,1,25,15,0,5.89,7,18.17,91.86,163
+167,มอก.826-2562,Factory N (Loei),2000,Loei,Textile,34,2019-08-02,8,16.53,1,13,7,0,-0.78,10,7.38,88.03,341
+168,มอก.945-2561,Factory R (Kamphaeng Phet),5000,Kamphaeng Phet,Food,13,2018-08-28,8,17.8,1,9,12,0,0.28,19,5.2,124.84,30
+169,มอก.193-2561,Factory P (Loei),200,Loei,Chemical,22,2018-10-24,10,16.2,2,1,6,1,2.2,3,12.31,129.12,392
+170,มอก.937-2567,Factory G (Maha Sarakham),1000,Maha Sarakham,Electronics,16,2024-04-23,4,16.68,3,11,9,0,1.18,17,29.08,123.28,342
+171,มอก.316-2565,Factory O (Phetchabun),100,Phetchabun,Textile,47,2022-05-12,5,27.26,2,25,10,1,0.06,11,5.13,113.43,170
+172,มอก.47-2566,Factory E (Lop Buri),100,Lop Buri,Electronics,17,2023-10-28,10,28.94,3,19,13,0,2.45,6,17.15,94.0,178
+173,มอก.389-2563,Factory R (Lop Buri),5000,Lop Buri,Textile,44,2020-10-27,10,26.54,2,9,15,1,-0.5,20,9.71,101.27,388
+174,มอก.472-2567,Factory E (Kamphaeng Phet),5000,Kamphaeng Phet,Chemical,35,2024-03-24,3,22.61,2,6,1,0,-0.06,2,3.45,110.53,493
+175,มอก.783-2560,Factory U (Khon Kaen),200,Khon Kaen,Metal,5,2017-01-14,1,19.33,3,5,0,0,2.65,14,4.63,104.06,201
+176,มอก.633-2560,Factory V (Maha Sarakham),1000,Maha Sarakham,Textile,2,2017-11-22,11,22.99,1,18,13,0,-1.59,16,10.1,86.72,379
+177,มอก.549-2564,Factory W (Phetchabun),5000,Phetchabun,Metal,28,2021-05-01,5,15.95,1,4,3,0,5.92,7,9.67,120.49,108
+178,มอก.259-2568,Factory L (Phitsanulok),1000,Phitsanulok,Food,30,2025-06-09,6,18.82,3,8,7,0,3.45,2,22.81,109.78,344
+179,มอก.96-2560,Factory P (Phitsanulok),100,Phitsanulok,Automotive,41,2017-07-13,7,22.07,1,23,5,0,1.29,13,10.47,126.48,340
+180,มอก.580-2565,Factory G (Ratchaburi),5000,Ratchaburi,Chemical,37,2022-02-17,2,27.46,2,9,1,1,5.72,8,3.73,116.54,470
+181,มอก.578-2568,Factory K (Chaiyaphum),100,Chaiyaphum,Metal,14,2025-11-02,11,29.08,3,5,12,1,-0.55,9,1.99,117.06,93
+182,มอก.581-2563,Factory M (Loei),5000,Loei,Agriculture,9,2020-07-22,7,23.62,3,24,2,0,4.73,11,4.19,119.76,37
+183,มอก.448-2561,Factory T (Suphan Buri),2000,Suphan Buri,Agriculture,39,2018-04-27,4,18.02,2,25,10,0,-0.69,8,4.93,120.73,411
+184,มอก.503-2567,Factory N (Loei),200,Loei,Textile,44,2024-04-12,4,24.98,3,22,12,0,2.18,19,10.76,123.86,161
+185,มอก.731-2563,Factory M (Saraburi),5000,Saraburi,Chemical,41,2020-02-03,2,20.89,1,24,12,0,4.53,3,13.17,98.85,56
+186,มอก.966-2560,Factory I (Kamphaeng Phet),100,Kamphaeng Phet,Metal,9,2017-05-15,5,21.94,1,6,13,0,0.41,17,22.43,105.14,272
+187,มอก.106-2566,Factory C (Kamphaeng Phet),2000,Kamphaeng Phet,Automotive,39,2023-01-03,1,18.48,2,13,0,0,5.2,12,11.52,107.18,408
+188,มอก.743-2561,Factory F (Nong Khai),5000,Nong Khai,Automotive,25,2018-09-08,9,28.6,1,5,8,0,2.99,15,3.51,126.99,84
+189,มอก.172-2561,Factory P (Chiang Mai),100,Chiang Mai,Agriculture,24,2018-07-09,7,24.42,2,8,15,0,0.68,6,4.18,119.7,244
+190,มอก.139-2561,Factory T (Phitsanulok),1000,Phitsanulok,Agriculture,22,2018-05-01,5,24.3,2,11,13,0,2.27,20,26.82,119.43,314
+191,มอก.308-2562,Factory K (Nakhon Ratchasima),200,Nakhon Ratchasima,Textile,26,2019-06-20,6,17.28,2,10,15,1,0.49,7,7.45,117.2,176
+192,มอก.288-2566,Factory G (Udon Thani),2000,Udon Thani,Automotive,35,2023-07-12,7,15.5,1,22,0,1,2.56,14,22.87,123.84,492
+193,มอก.449-2563,Factory Z (Suphan Buri),1000,Suphan Buri,Metal,44,2020-05-27,5,20.13,2,5,9,0,4.57,4,3.32,122.32,376
+194,มอก.809-2566,Factory P (Tak),2000,Tak,Automotive,26,2023-07-03,7,16.91,3,17,13,0,1.18,11,23.92,87.5,369
+195,มอก.609-2568,Factory H (Udon Thani),5000,Udon Thani,Metal,43,2025-11-03,11,18.44,2,6,1,0,3.78,20,21.6,112.06,356
+196,มอก.991-2566,Factory A (Chiang Mai),100,Chiang Mai,Food,17,2023-06-26,6,25.41,1,17,7,0,2.34,12,7.55,97.28,247
+197,มอก.155-2568,Factory J (Sukhothai),1000,Sukhothai,Food,6,2025-06-01,6,17.72,1,24,4,0,5.27,10,17.5,100.04,243
+198,มอก.534-2563,Factory O (Sukhothai),5000,Sukhothai,Food,45,2020-08-12,8,21.93,2,11,2,0,5.58,3,4.6,109.31,21
+199,มอก.664-2565,Factory H (Chaiyaphum),2000,Chaiyaphum,Electronics,12,2022-02-22,2,22.59,3,6,10,0,2.89,14,0.54,123.61,128
+200,มอก.645-2566,Factory A (Chiang Mai),5000,Chiang Mai,Textile,40,2023-03-06,3,28.98,1,15,13,0,2.52,6,20.9,126.12,115

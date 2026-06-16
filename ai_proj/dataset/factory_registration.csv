@@ -1,0 +1,51 @@
+﻿factory_id,factory_name,province,industry_type,factory_size,registration_date,status,annual_capacity_tons,employees
+F0001,Factory โรงงานน้ำตาล (Udon Thani),Udon Thani,Food,large,2019-04-08,active,391123,259
+F0002,Factory โรงงานน้ำตาล (Loei),Loei,Food,large,2021-01-01,active,119629,526
+F0003,Factory โรงงานน้ำตาล (Phetchabun),Phetchabun,Automotive,small,2023-04-23,suspended,120574,969
+F0004,Factory โรงงานน้ำตาล (Nong Khai),Nong Khai,Agriculture,small,2017-12-14,active,150684,368
+F0005,Factory โรงงานน้ำตาล (Nakhon Ratchasima),Nakhon Ratchasima,Metal,medium,2016-02-13,active,193208,1785
+F0006,Factory โรงงานน้ำตาล (Kamphaeng Phet),Kamphaeng Phet,Automotive,medium,2015-12-15,active,488548,825
+F0007,Factory โรงงานน้ำตาล (Suphan Buri),Suphan Buri,Automotive,medium,2025-10-28,active,307698,443
+F0008,Factory โรงงานน้ำตาล (Suphan Buri),Suphan Buri,Food,large,2018-05-03,active,459286,256
+F0009,Factory โรงงานน้ำตาล (Phitsanulok),Phitsanulok,Agriculture,medium,2025-06-06,active,191264,479
+F0010,Factory โรงงานน้ำตาล (Saraburi),Saraburi,Electronics,large,2025-02-20,active,285043,1543
+F0011,Factory โรงงานน้ำตาล (Lop Buri),Lop Buri,Chemical,medium,2021-05-21,active,363935,714
+F0012,Factory โรงงานน้ำตาล (Ratchaburi),Ratchaburi,Chemical,small,2020-07-09,active,115615,1920
+F0013,Factory โรงงานน้ำตาล (Nong Khai),Nong Khai,Electronics,medium,2018-11-16,suspended,468828,1922
+F0014,Factory โรงงานน้ำตาล (Tak),Tak,Chemical,medium,2017-04-24,active,396650,1247
+F0015,Factory โรงงานน้ำตาล (Chiang Mai),Chiang Mai,Automotive,medium,2020-04-05,suspended,52662,1597
+F0016,Factory โรงงานน้ำตาล (Ratchaburi),Ratchaburi,Metal,small,2017-11-06,suspended,317690,180
+F0017,Factory โรงงานน้ำตาล (Phitsanulok),Phitsanulok,Textile,large,2022-09-09,active,361664,1526
+F0018,Factory โรงงานน้ำตาล (Udon Thani),Udon Thani,Electronics,large,2019-11-11,active,158878,940
+F0019,Factory โรงงานน้ำตาล (Chaiyaphum),Chaiyaphum,Textile,small,2019-09-25,active,271171,1919
+F0020,Factory โรงงานน้ำตาล (Udon Thani),Udon Thani,Metal,large,2019-11-17,active,85131,815
+F0021,Factory โรงงานน้ำตาล (Chaiyaphum),Chaiyaphum,Automotive,large,2015-10-11,suspended,15211,279
+F0022,Factory โรงงานน้ำตาล (Kamphaeng Phet),Kamphaeng Phet,Metal,medium,2018-01-08,active,49907,1548
+F0023,Factory โรงงานน้ำตาล (Sukhothai),Sukhothai,Metal,small,2023-03-05,suspended,293255,388
+F0024,Factory โรงงานน้ำตาล (Saraburi),Saraburi,Automotive,large,2021-04-18,active,378790,688
+F0025,Factory โรงงานน้ำตาล (Phitsanulok),Phitsanulok,Electronics,large,2020-08-17,suspended,68441,557
+F0026,Factory โรงงานน้ำตาล (Lop Buri),Lop Buri,Food,medium,2015-10-18,active,313512,501
+F0027,Factory โรงงานน้ำตาล (Kanchanaburi),Kanchanaburi,Food,large,2025-01-08,active,479700,114
+F0028,Factory โรงงานน้ำตาล (Nakhon Sawan),Nakhon Sawan,Food,large,2018-05-22,suspended,117321,1154
+F0029,Factory โรงงานน้ำตาล (Khon Kaen),Khon Kaen,Electronics,large,2024-08-08,suspended,428360,883
+F0030,Factory โรงงานน้ำตาล (Nakhon Ratchasima),Nakhon Ratchasima,Food,small,2025-07-12,suspended,220535,1006
+F0031,Factory โรงงานน้ำตาล (Ratchaburi),Ratchaburi,Electronics,large,2025-02-02,suspended,386793,744
+F0032,Factory โรงงานน้ำตาล (Udon Thani),Udon Thani,Chemical,small,2018-09-15,active,226187,425
+F0033,Factory โรงงานน้ำตาล (Saraburi),Saraburi,Textile,small,2016-08-26,active,31522,1385
+F0034,Factory โรงงานน้ำตาล (Loei),Loei,Metal,small,2016-04-06,suspended,259615,1035
+F0035,Factory โรงงานน้ำตาล (Nakhon Ratchasima),Nakhon Ratchasima,Metal,medium,2015-03-13,active,209693,593
+F0036,Factory โรงงานน้ำตาล (Tak),Tak,Agriculture,medium,2023-11-23,suspended,86158,438
+F0037,Factory โรงงานน้ำตาล (Uthai Thani),Uthai Thani,Chemical,small,2024-12-18,active,397154,692
+F0038,Factory โรงงานน้ำตาล (Ratchaburi),Ratchaburi,Food,large,2022-09-28,active,34821,1090
+F0039,Factory โรงงานน้ำตาล (Suphan Buri),Suphan Buri,Metal,small,2016-10-03,active,216694,295
+F0040,Factory โรงงานน้ำตาล (Nong Khai),Nong Khai,Chemical,large,2024-01-20,active,224794,1396
+F0041,Factory โรงงานน้ำตาล (Nong Khai),Nong Khai,Automotive,large,2020-05-07,active,130140,593
+F0042,Factory โรงงานน้ำตาล (Phitsanulok),Phitsanulok,Chemical,large,2025-05-15,active,492073,1589
+F0043,Factory โรงงานน้ำตาล (Suphan Buri),Suphan Buri,Food,medium,2024-10-04,active,286875,486
+F0044,Factory โรงงานน้ำตาล (Phetchabun),Phetchabun,Agriculture,small,2020-02-08,active,154415,373
+F0045,Factory โรงงานน้ำตาล (Tak),Tak,Metal,large,2019-10-26,active,355152,1723
+F0046,Factory โรงงานน้ำตาล (Loei),Loei,Agriculture,large,2016-03-09,active,471465,269
+F0047,Factory โรงงานน้ำตาล (Loei),Loei,Chemical,medium,2019-10-07,active,111743,1457
+F0048,Factory โรงงานน้ำตาล (Saraburi),Saraburi,Automotive,medium,2019-01-03,suspended,439817,616
+F0049,Factory โรงงานน้ำตาล (Ratchaburi),Ratchaburi,Food,medium,2017-11-09,active,393618,954
+F0050,Factory โรงงานน้ำตาล (Loei),Loei,Electronics,medium,2023-01-04,active,468002,1465

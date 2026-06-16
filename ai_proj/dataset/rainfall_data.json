@@ -1,0 +1,1682 @@
+[
+  {
+    "province": "Kanchanaburi",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 352.9,
+    "rainy_days": 10
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 473.6,
+    "rainy_days": 11
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 424.9,
+    "rainy_days": 5
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 88.0,
+    "rainy_days": 6
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 1207.3,
+    "rainy_days": 24
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 190.4,
+    "rainy_days": 14
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 450.9,
+    "rainy_days": 26
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 405.1,
+    "rainy_days": 21
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 749.6,
+    "rainy_days": 16
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 163.1,
+    "rainy_days": 21
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 699.0,
+    "rainy_days": 11
+  },
+  {
+    "province": "Kanchanaburi",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 597.7,
+    "rainy_days": 6
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 345.0,
+    "rainy_days": 23
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 684.9,
+    "rainy_days": 18
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 539.6,
+    "rainy_days": 23
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 1366.3,
+    "rainy_days": 29
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 473.4,
+    "rainy_days": 30
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 278.0,
+    "rainy_days": 20
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 703.0,
+    "rainy_days": 26
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 437.5,
+    "rainy_days": 12
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 533.1,
+    "rainy_days": 8
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 220.3,
+    "rainy_days": 22
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 756.1,
+    "rainy_days": 19
+  },
+  {
+    "province": "Ratchaburi",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 394.1,
+    "rainy_days": 27
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 625.0,
+    "rainy_days": 6
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 1555.0,
+    "rainy_days": 13
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 456.7,
+    "rainy_days": 10
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 815.2,
+    "rainy_days": 24
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 476.3,
+    "rainy_days": 23
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 348.1,
+    "rainy_days": 10
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 1091.7,
+    "rainy_days": 5
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 126.5,
+    "rainy_days": 6
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 934.7,
+    "rainy_days": 24
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 114.0,
+    "rainy_days": 1
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 881.2,
+    "rainy_days": 23
+  },
+  {
+    "province": "Suphan Buri",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 538.0,
+    "rainy_days": 19
+  },
+  {
+    "province": "Udon Thani",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 278.5,
+    "rainy_days": 13
+  },
+  {
+    "province": "Udon Thani",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 411.1,
+    "rainy_days": 28
+  },
+  {
+    "province": "Udon Thani",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 790.4,
+    "rainy_days": 25
+  },
+  {
+    "province": "Udon Thani",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 1474.3,
+    "rainy_days": 19
+  },
+  {
+    "province": "Udon Thani",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 168.2,
+    "rainy_days": 2
+  },
+  {
+    "province": "Udon Thani",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 290.4,
+    "rainy_days": 6
+  },
+  {
+    "province": "Udon Thani",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 206.2,
+    "rainy_days": 20
+  },
+  {
+    "province": "Udon Thani",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 473.9,
+    "rainy_days": 11
+  },
+  {
+    "province": "Udon Thani",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 894.5,
+    "rainy_days": 30
+  },
+  {
+    "province": "Udon Thani",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 185.9,
+    "rainy_days": 26
+  },
+  {
+    "province": "Udon Thani",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 529.4,
+    "rainy_days": 20
+  },
+  {
+    "province": "Udon Thani",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 878.6,
+    "rainy_days": 8
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 407.4,
+    "rainy_days": 21
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 601.0,
+    "rainy_days": 19
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 1047.3,
+    "rainy_days": 4
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 254.4,
+    "rainy_days": 30
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 137.8,
+    "rainy_days": 16
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 644.7,
+    "rainy_days": 5
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 655.1,
+    "rainy_days": 11
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 389.5,
+    "rainy_days": 24
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 341.7,
+    "rainy_days": 3
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 544.6,
+    "rainy_days": 8
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 251.2,
+    "rainy_days": 12
+  },
+  {
+    "province": "Khon Kaen",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 251.5,
+    "rainy_days": 11
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 787.4,
+    "rainy_days": 6
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 239.2,
+    "rainy_days": 21
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 144.9,
+    "rainy_days": 29
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 341.2,
+    "rainy_days": 3
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 395.6,
+    "rainy_days": 27
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 698.9,
+    "rainy_days": 23
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 361.0,
+    "rainy_days": 22
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 1145.8,
+    "rainy_days": 21
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 561.7,
+    "rainy_days": 24
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 310.5,
+    "rainy_days": 29
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 682.0,
+    "rainy_days": 11
+  },
+  {
+    "province": "Chaiyaphum",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 1134.5,
+    "rainy_days": 15
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 775.2,
+    "rainy_days": 1
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 177.6,
+    "rainy_days": 9
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 417.5,
+    "rainy_days": 7
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 619.3,
+    "rainy_days": 8
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 757.0,
+    "rainy_days": 23
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 475.7,
+    "rainy_days": 3
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 435.3,
+    "rainy_days": 12
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 1360.7,
+    "rainy_days": 9
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 781.7,
+    "rainy_days": 26
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 683.2,
+    "rainy_days": 4
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 371.0,
+    "rainy_days": 24
+  },
+  {
+    "province": "Nakhon Ratchasima",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 248.7,
+    "rainy_days": 1
+  },
+  {
+    "province": "Lop Buri",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 690.1,
+    "rainy_days": 2
+  },
+  {
+    "province": "Lop Buri",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 830.3,
+    "rainy_days": 13
+  },
+  {
+    "province": "Lop Buri",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 531.5,
+    "rainy_days": 15
+  },
+  {
+    "province": "Lop Buri",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 782.9,
+    "rainy_days": 24
+  },
+  {
+    "province": "Lop Buri",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 794.3,
+    "rainy_days": 14
+  },
+  {
+    "province": "Lop Buri",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 861.5,
+    "rainy_days": 6
+  },
+  {
+    "province": "Lop Buri",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 175.3,
+    "rainy_days": 29
+  },
+  {
+    "province": "Lop Buri",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 425.0,
+    "rainy_days": 14
+  },
+  {
+    "province": "Lop Buri",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 714.1,
+    "rainy_days": 16
+  },
+  {
+    "province": "Lop Buri",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 549.8,
+    "rainy_days": 29
+  },
+  {
+    "province": "Lop Buri",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 795.7,
+    "rainy_days": 13
+  },
+  {
+    "province": "Lop Buri",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 683.0,
+    "rainy_days": 12
+  },
+  {
+    "province": "Saraburi",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 93.9,
+    "rainy_days": 18
+  },
+  {
+    "province": "Saraburi",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 977.9,
+    "rainy_days": 13
+  },
+  {
+    "province": "Saraburi",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 391.7,
+    "rainy_days": 4
+  },
+  {
+    "province": "Saraburi",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 298.3,
+    "rainy_days": 27
+  },
+  {
+    "province": "Saraburi",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 959.8,
+    "rainy_days": 16
+  },
+  {
+    "province": "Saraburi",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 761.3,
+    "rainy_days": 26
+  },
+  {
+    "province": "Saraburi",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 1035.1,
+    "rainy_days": 28
+  },
+  {
+    "province": "Saraburi",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 623.3,
+    "rainy_days": 19
+  },
+  {
+    "province": "Saraburi",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 421.6,
+    "rainy_days": 21
+  },
+  {
+    "province": "Saraburi",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 581.5,
+    "rainy_days": 25
+  },
+  {
+    "province": "Saraburi",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 262.8,
+    "rainy_days": 22
+  },
+  {
+    "province": "Saraburi",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 202.3,
+    "rainy_days": 8
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 353.1,
+    "rainy_days": 6
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 1207.4,
+    "rainy_days": 15
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 376.8,
+    "rainy_days": 3
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 147.5,
+    "rainy_days": 26
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 484.0,
+    "rainy_days": 28
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 373.6,
+    "rainy_days": 2
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 987.8,
+    "rainy_days": 10
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 1160.1,
+    "rainy_days": 1
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 409.4,
+    "rainy_days": 11
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 622.9,
+    "rainy_days": 9
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 653.7,
+    "rainy_days": 4
+  },
+  {
+    "province": "Uthai Thani",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 517.6,
+    "rainy_days": 3
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 461.6,
+    "rainy_days": 11
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 284.8,
+    "rainy_days": 6
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 129.1,
+    "rainy_days": 29
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 283.7,
+    "rainy_days": 13
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 506.5,
+    "rainy_days": 6
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 186.2,
+    "rainy_days": 24
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 603.9,
+    "rainy_days": 3
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 556.3,
+    "rainy_days": 18
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 374.0,
+    "rainy_days": 29
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 449.4,
+    "rainy_days": 3
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 211.5,
+    "rainy_days": 11
+  },
+  {
+    "province": "Nakhon Sawan",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 852.8,
+    "rainy_days": 20
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 844.6,
+    "rainy_days": 20
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 239.3,
+    "rainy_days": 29
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 244.3,
+    "rainy_days": 16
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 286.3,
+    "rainy_days": 23
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 734.5,
+    "rainy_days": 1
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 652.5,
+    "rainy_days": 14
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 953.7,
+    "rainy_days": 21
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 1013.8,
+    "rainy_days": 6
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 173.3,
+    "rainy_days": 20
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 719.5,
+    "rainy_days": 29
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 991.3,
+    "rainy_days": 14
+  },
+  {
+    "province": "Kamphaeng Phet",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 431.5,
+    "rainy_days": 6
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 525.7,
+    "rainy_days": 2
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 478.4,
+    "rainy_days": 4
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 491.5,
+    "rainy_days": 11
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 851.2,
+    "rainy_days": 7
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 1333.1,
+    "rainy_days": 7
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 1123.7,
+    "rainy_days": 14
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 385.4,
+    "rainy_days": 23
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 624.1,
+    "rainy_days": 18
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 316.1,
+    "rainy_days": 24
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 338.1,
+    "rainy_days": 30
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 511.7,
+    "rainy_days": 24
+  },
+  {
+    "province": "Phitsanulok",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 332.1,
+    "rainy_days": 18
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 365.4,
+    "rainy_days": 9
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 615.4,
+    "rainy_days": 22
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 713.7,
+    "rainy_days": 10
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 702.8,
+    "rainy_days": 10
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 706.8,
+    "rainy_days": 8
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 222.6,
+    "rainy_days": 4
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 320.9,
+    "rainy_days": 2
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 545.8,
+    "rainy_days": 13
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 966.1,
+    "rainy_days": 19
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 1737.8,
+    "rainy_days": 18
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 638.8,
+    "rainy_days": 27
+  },
+  {
+    "province": "Chiang Mai",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 805.4,
+    "rainy_days": 16
+  },
+  {
+    "province": "Tak",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 204.7,
+    "rainy_days": 5
+  },
+  {
+    "province": "Tak",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 793.2,
+    "rainy_days": 2
+  },
+  {
+    "province": "Tak",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 1484.6,
+    "rainy_days": 12
+  },
+  {
+    "province": "Tak",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 320.1,
+    "rainy_days": 1
+  },
+  {
+    "province": "Tak",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 373.2,
+    "rainy_days": 14
+  },
+  {
+    "province": "Tak",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 866.2,
+    "rainy_days": 3
+  },
+  {
+    "province": "Tak",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 541.7,
+    "rainy_days": 10
+  },
+  {
+    "province": "Tak",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 120.0,
+    "rainy_days": 27
+  },
+  {
+    "province": "Tak",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 387.9,
+    "rainy_days": 22
+  },
+  {
+    "province": "Tak",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 1157.4,
+    "rainy_days": 21
+  },
+  {
+    "province": "Tak",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 447.3,
+    "rainy_days": 20
+  },
+  {
+    "province": "Tak",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 447.1,
+    "rainy_days": 16
+  },
+  {
+    "province": "Sukhothai",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 835.4,
+    "rainy_days": 7
+  },
+  {
+    "province": "Sukhothai",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 652.3,
+    "rainy_days": 4
+  },
+  {
+    "province": "Sukhothai",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 432.3,
+    "rainy_days": 1
+  },
+  {
+    "province": "Sukhothai",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 357.3,
+    "rainy_days": 7
+  },
+  {
+    "province": "Sukhothai",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 2192.7,
+    "rainy_days": 6
+  },
+  {
+    "province": "Sukhothai",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 1051.9,
+    "rainy_days": 21
+  },
+  {
+    "province": "Sukhothai",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 706.7,
+    "rainy_days": 10
+  },
+  {
+    "province": "Sukhothai",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 732.8,
+    "rainy_days": 3
+  },
+  {
+    "province": "Sukhothai",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 493.4,
+    "rainy_days": 16
+  },
+  {
+    "province": "Sukhothai",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 647.7,
+    "rainy_days": 28
+  },
+  {
+    "province": "Sukhothai",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 461.7,
+    "rainy_days": 4
+  },
+  {
+    "province": "Sukhothai",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 300.8,
+    "rainy_days": 10
+  },
+  {
+    "province": "Phetchabun",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 662.6,
+    "rainy_days": 26
+  },
+  {
+    "province": "Phetchabun",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 437.3,
+    "rainy_days": 13
+  },
+  {
+    "province": "Phetchabun",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 682.6,
+    "rainy_days": 16
+  },
+  {
+    "province": "Phetchabun",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 757.1,
+    "rainy_days": 16
+  },
+  {
+    "province": "Phetchabun",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 703.5,
+    "rainy_days": 29
+  },
+  {
+    "province": "Phetchabun",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 284.4,
+    "rainy_days": 22
+  },
+  {
+    "province": "Phetchabun",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 408.3,
+    "rainy_days": 9
+  },
+  {
+    "province": "Phetchabun",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 442.6,
+    "rainy_days": 3
+  },
+  {
+    "province": "Phetchabun",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 919.7,
+    "rainy_days": 21
+  },
+  {
+    "province": "Phetchabun",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 893.1,
+    "rainy_days": 18
+  },
+  {
+    "province": "Phetchabun",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 333.5,
+    "rainy_days": 13
+  },
+  {
+    "province": "Phetchabun",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 218.9,
+    "rainy_days": 6
+  },
+  {
+    "province": "Loei",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 1783.3,
+    "rainy_days": 12
+  },
+  {
+    "province": "Loei",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 687.6,
+    "rainy_days": 29
+  },
+  {
+    "province": "Loei",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 198.1,
+    "rainy_days": 13
+  },
+  {
+    "province": "Loei",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 369.3,
+    "rainy_days": 12
+  },
+  {
+    "province": "Loei",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 941.3,
+    "rainy_days": 6
+  },
+  {
+    "province": "Loei",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 1547.5,
+    "rainy_days": 15
+  },
+  {
+    "province": "Loei",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 1407.5,
+    "rainy_days": 2
+  },
+  {
+    "province": "Loei",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 671.0,
+    "rainy_days": 9
+  },
+  {
+    "province": "Loei",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 534.4,
+    "rainy_days": 15
+  },
+  {
+    "province": "Loei",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 266.0,
+    "rainy_days": 15
+  },
+  {
+    "province": "Loei",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 561.8,
+    "rainy_days": 9
+  },
+  {
+    "province": "Loei",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 291.1,
+    "rainy_days": 8
+  },
+  {
+    "province": "Nong Khai",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 410.8,
+    "rainy_days": 27
+  },
+  {
+    "province": "Nong Khai",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 865.7,
+    "rainy_days": 9
+  },
+  {
+    "province": "Nong Khai",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 460.3,
+    "rainy_days": 19
+  },
+  {
+    "province": "Nong Khai",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 441.3,
+    "rainy_days": 2
+  },
+  {
+    "province": "Nong Khai",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 517.1,
+    "rainy_days": 5
+  },
+  {
+    "province": "Nong Khai",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 1928.8,
+    "rainy_days": 25
+  },
+  {
+    "province": "Nong Khai",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 246.4,
+    "rainy_days": 23
+  },
+  {
+    "province": "Nong Khai",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 630.3,
+    "rainy_days": 22
+  },
+  {
+    "province": "Nong Khai",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 1338.6,
+    "rainy_days": 4
+  },
+  {
+    "province": "Nong Khai",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 516.2,
+    "rainy_days": 3
+  },
+  {
+    "province": "Nong Khai",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 1041.1,
+    "rainy_days": 22
+  },
+  {
+    "province": "Nong Khai",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 208.1,
+    "rainy_days": 12
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 1,
+    "year": 2568,
+    "rainfall_mm": 469.7,
+    "rainy_days": 26
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 2,
+    "year": 2568,
+    "rainfall_mm": 312.4,
+    "rainy_days": 18
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 3,
+    "year": 2568,
+    "rainfall_mm": 512.9,
+    "rainy_days": 14
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 4,
+    "year": 2568,
+    "rainfall_mm": 519.5,
+    "rainy_days": 25
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 5,
+    "year": 2568,
+    "rainfall_mm": 552.5,
+    "rainy_days": 19
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 6,
+    "year": 2568,
+    "rainfall_mm": 861.2,
+    "rainy_days": 8
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 7,
+    "year": 2568,
+    "rainfall_mm": 84.6,
+    "rainy_days": 18
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 8,
+    "year": 2568,
+    "rainfall_mm": 358.7,
+    "rainy_days": 2
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 9,
+    "year": 2568,
+    "rainfall_mm": 605.4,
+    "rainy_days": 27
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 10,
+    "year": 2568,
+    "rainfall_mm": 125.2,
+    "rainy_days": 13
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 11,
+    "year": 2568,
+    "rainfall_mm": 762.4,
+    "rainy_days": 27
+  },
+  {
+    "province": "Maha Sarakham",
+    "month": 12,
+    "year": 2568,
+    "rainfall_mm": 354.3,
+    "rainy_days": 17
+  }
+]
