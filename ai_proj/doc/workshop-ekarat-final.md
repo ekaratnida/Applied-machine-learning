@@ -20,7 +20,7 @@ paginate: true
 ---
 
 # ความสำคัญของข้อมูลในองค์กรยุคดิจิทัล
-- ข้อมูล = ทรัพยากรที่มีค่าที่สุดขององค์กร
+- ข้อมูล เป็น ทรัพยากรที่มีค่าอย่างยิ่งขององค์กร
 - ช่วยให้เข้าใจภาคอุตสาหกรรม แนวโน้มการผลิต และประสิทธิภาพการดำเนินงาน
 - **ประโยชน์หลัก:**
   - วางแผนนโยบายมาตรฐานและอุตสาหกรรม
@@ -28,16 +28,16 @@ paginate: true
   - ลดต้นทุนและความเสี่ยงด้านคุณภาพ
   - สร้างความโปร่งใสและธรรมาภิบาล
 
-**สถิติ:** องค์กรที่ใช้ Data-Driven Decision Making มี productivity สูงขึ้น 5–6%
+รายงาน [ref](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1819486") พบว่าองค์กรที่ใช้ Data-Driven Decision Making มี productivity สูงขึ้น 5–6%
 
 ---
 
 # DIKW Pyramid — ลำดับชั้นของข้อมูล
 
-- **Data:** ข้อเท็จจริงดิบ เช่น ตัวเลขผลผลิตอ้อยแต่ละแปลง
-- **Information:** ข้อมูลที่ผ่านการจัดระเบียบ เช่น ผลผลิตรวมรายจังหวัด
-- **Knowledge:** การตีความ เช่น จังหวัดที่มีผลผลิตสูงมักมี มอก.
-- **Wisdom:** การนำไปใช้ตัดสินใจ เช่น กำหนดนโยบายส่งเสริม มอก.
+- **Data** ข้อมูลดิบ เช่น ตัวเลขผลผลิตอ้อยแต่ละแปลง
+- **Information** ข้อมูลดิบที่ผ่านการจัดระเบียบ ประมวลผล สรุปผล เช่น ผลผลิตรวมรายจังหวัด
+- **Knowledge** การนำ Information ที่ได้ มาผสมผสานกับประสบการณ์, การวิเคราะห์, บริบท และความเข้าใจของมนุษย์ จนเกิดเป็น "ความรู้ความเข้าใจ" ที่ลึกซึ้งพอที่จะนำไปใช้ในการตัดสินใจ แก้ปัญหา 
+- **Wisdom** การนำไปใช้ตัดสินใจ เช่น กำหนดนโยบายต่างๆ
 
 ---
 
@@ -46,28 +46,29 @@ paginate: true
 | Data Analytics | Data Science |
 |---|---|
 | วิเคราะห์ข้อมูลในอดีต | ครอบคลุมอดีต ปัจจุบัน และอนาคต |
-| สถิติ + Visualization | ML + AI ขั้นสูง |
+| สถิติ และ Visualization | ML และ AI ขั้นสูง |
 | "เกิดอะไรขึ้น" / "ทำไม" | "จะเกิดอะไรขึ้น" / "ควรทำอย่างไร" |
 | Tools: Excel, SQL, BI | Tools: Python, R, ML Frameworks |
 
-**Data Science** = Data Analytics + Machine Learning + Domain Knowledge
+**Data Science** คือ Data Analytics, AI/ML และ Domain Knowledge
 
 ---
 
 # 4 ระดับของการวิเคราะห์ข้อมูล
 
-| ระดับ | คำถามหลัก | วิธีการ | มูลค่า |
-|---|---|---|---|
-| **Descriptive** | เกิดอะไรขึ้น? | สถิติ, Visualization, Dashboard | ✅ |
-| **Diagnostic** | ทำไมจึงเกิด? | Drill-down, Correlation, Root Cause | ✅✅ |
-| **Predictive** | จะเกิดอะไรขึ้น? | Regression, Classification, ML | ✅✅✅ |
-| **Prescriptive** | ควรทำอย่างไร? | Optimization, Simulation, Decision Trees | ✅✅✅✅ |
+| ระดับ | คำถามหลัก | วิธีการ |
+|---|---|---|
+| **Descriptive** | เกิดอะไรขึ้น | สถิติ, Visualization, Dashboard |
+| **Diagnostic** | ทำไมจึงเกิด | Drill-down, Correlation, Root Cause |
+| **Predictive** | จะเกิดอะไรขึ้น | Regression, Classification, ML |
+| **Prescriptive** | ควรทำอย่างไร | Optimization, Simulation, Decision Trees |
 
 
 ---
 
 # CRISP-DM Framework
 
+## Cross-Industry Standard Process for Data Mining
 1. **Business Understanding** — ทำความเข้าใจธุรกิจ/นโยบาย
 2. **Data Understanding** — รวบรวมและสำรวจข้อมูล
 3. **Data Preparation** — เตรียมและทำความสะอาดข้อมูล
@@ -75,13 +76,13 @@ paginate: true
 5. **Evaluation** — ประเมินผล
 6. **Deployment** — นำไปใช้งาน
 
-**หมายเหตุ:** CRISP-DM เป็น iterative — สามารถย้อนกลับไปขั้นก่อนหน้าได้
+**หมายเหตุ:** CRISP-DM เป็น iterative process ซึ่งสามารถย้อนกลับไปขั้นก่อนหน้าได้
 
 ---
 
 # บทบาทของข้อมูลในการสนับสนุนการตัดสินใจ
 
-**Data-Driven Decision Making**
+## Data-Driven Decision Making
 
 - **เชิงนโยบาย** — กำหนดมาตรฐานอุตสาหกรรม, วางแผนการผลิตอ้อย
 - **เชิงปฏิบัติการ** — จัดสรรทรัพยากรตรวจสอบ, บริหารปริมาณอ้อยเข้าหีบ
@@ -99,9 +100,9 @@ paginate: true
 
 | หน่วยงาน | การประยุกต์ใช้ |
 |---|---|
-| สมอ. | วิเคราะห์แนวโน้มการขอ มอก., พยากรณ์ความเสี่ยงสินค้าไม่ได้มาตรฐาน |
+| สมอ. | วิเคราะห์แนวโน้มการขอ มอก., พยากรณ์ความเสี่ยงสินค้าที่ไม่ได้มาตรฐาน |
 | สมอ. | Data Dashboard สถานะการตรวจรับรองโรงงาน |
-| สำนักงานอ้อย | พยากรณ์ผลผลิตอ้อยรายฤดู, วิเคราะห์ราคาน้ำตาล |
+| สำนักงานอ้อย | พยากรณ์ผลผลิตอ้อย, วิเคราะห์ราคาน้ำตาล |
 | สำนักงานอ้อย | วางแผนการจัดสรรปริมาณอ้อยให้โรงงาน |
 
 ---
@@ -116,7 +117,8 @@ paginate: true
 **Structured** — ฐานข้อมูลทะเบียนโรงงาน, ผลตรวจ มอก., ปริมาณอ้อย yield
 **Semi-Structured** — JSON จาก API กรมศุลกากร, XML รายงานห้องปฏิบัติการ
 **Unstructured** — รูปภาพการตรวจสอบ, รายงานผู้ตรวจประเมิน, เอกสารมาตรฐาน
-**สัดส่วนในองค์กร:** Structured 20% · Semi-Structured 10% · Unstructured 70%
+
+**สัดส่วนประเภทข้อมูลในองค์กร** Structured 20%, Semi-Structured 10%, และ Unstructured 70%
 
 ---
 
@@ -171,7 +173,7 @@ agri = pd.read_excel("cane_production_2025.xlsx")
 
 # คุณภาพข้อมูล (Data Quality Dimensions)
 
-| มิติ | คำอธิบาย | ตัวอย่างใน สมอ./อ้อย |
+| มิติ | คำอธิบาย | ตัวอย่างใน สมอ./สอน. |
 |---|---|---|
 | **Accuracy** | ข้อมูลถูกต้องตรงความจริง | ทะเบียนโรงงานตรงกับสถานที่จริง |
 | **Completeness** | ข้อมูลครบถ้วนสมบูรณ์ | ไม่มี missing ค่า CCS ของอ้อย |
@@ -187,19 +189,19 @@ agri = pd.read_excel("cane_production_2025.xlsx")
 1. **Data Cleaning** — จัดการ missing values, outliers, duplicates
 2. **Data Integration** — รวมข้อมูลจากหลายแหล่ง
 3. **Data Transformation** — Normalize, Encode, Feature Engineering
-4. **Data Reduction** — เลือก feature ที่สำคัญ, dimensionality reduction
+4. **Data Reduction** — เลือก feature ที่สำคัญ, ลดจำนวนมิติของข้อมูล (dimensionality reduction)
 5. **Data Discretization** — แปลงข้อมูลต่อเนื่องเป็นกลุ่ม
 
 ---
 
 # แนวทางการจัดเก็บและบริหารจัดการข้อมูล
 
-**Data Governance:**
+## **Data Governance:**
 - **Data Quality** — ความถูกต้อง สมบูรณ์ สอดคล้อง
 - **Data Security** — ควบคุมการเข้าถึง เข้ารหัสข้อมูล
 - **Data Privacy** — ปฏิบัติตาม PDPA
 - **Lifecycle Management** —> สร้าง -> เก็บ -> ใช้ -> ทำลาย
-**เทคโนโลยี:** Data Warehouse · Data Lake · Data Lakehouse
+**เทคโนโลยีที่เกี่ยวข้อง** Data Warehouse, Data Lake, และ Data Lakehouse
 
 ---
 
@@ -231,7 +233,7 @@ print(" Date range:", df["cert_date"].min(), "–", df["cert_date"].max())
 | ภาพถ่ายกระบวนการผลิต | Unstructured |
 
 **ผลลัพธ์:** พบว่าโรงงาน SMEs ขาดความรู้ในการรักษาระบบคุณภาพ
-**แนวทางแก้ไข:** จัดอบรมให้ความรู้ก่อนวันหมดอายุ 3 เดือน + ระบบเตือนอัตโนมัติ
+**แนวทางแก้ไข:** จัดอบรมให้ความรู้ก่อนวันหมดอายุ 3 เดือนและมีการใช้ระบบเตือนอัตโนมัติ
 
 ---
 
@@ -243,9 +245,9 @@ print(" Date range:", df["cert_date"].min(), "–", df["cert_date"].max())
 
 # หลักการวิเคราะห์เชิงพรรณนา
 
-**ตอบคำถาม:** "เกิดอะไรขึ้น?" (What happened?)
+**ตอบคำถาม:** "เกิดอะไรขึ้น" (What happened?)
 
-**ขั้นตอน:**
+**ขั้นตอนดังนี้**
 1. รวบรวมข้อมูลจากแหล่งต่าง ๆ
 2. ทำความสะอาดข้อมูล (Data Cleaning)
 3. สรุปข้อมูลด้วยสถิติพื้นฐาน
@@ -276,17 +278,17 @@ print(" Date range:", df["cert_date"].min(), "–", df["cert_date"].max())
 | — Nominal | ไม่มีลำดับ | จังหวัด, ประเภทอุตสาหกรรม |
 | — Ordinal | มีลำดับ | ระดับคุณภาพ (ดี/ปานกลาง/ต้องปรับปรุง) |
 
-**ข้อควรจำ:** ชนิดของตัวแปรกำหนดวิธีการวิเคราะห์ที่เหมาะสม
+**ข้อควรจำ** ชนิดของตัวแปรกำหนดวิธีการวิเคราะห์ที่เหมาะสม
 
 ---
 
 # การแจกแจงความถี่ (Frequency Distribution)
 
-**ความถี่สัมบูรณ์ (Absolute Frequency):** จำนวนครั้งที่ค่าปรากฏ
-**ความถี่สัมพัทธ์ (Relative Frequency):** สัดส่วนเมื่อเทียบกับทั้งหมด
-**ความถี่สะสม (Cumulative Frequency):** ผลรวมความถี่สะสมจากน้อยไปมาก
+**ความถี่สัมบูรณ์ (Absolute Frequency)** คือ จำนวนครั้งที่ค่าปรากฏ
+**ความถี่สัมพัทธ์ (Relative Frequency)** คือ สัดส่วนของความถี่เมื่อเทียบกับทั้งหมด
+**ความถี่สะสม (Cumulative Frequency)** คือ ผลรวมความถี่สะสมจากน้อยไปมาก
 
-**ตัวอย่าง — การแจกแจงผลผลิตอ้อย:**
+**ตัวอย่าง** การแจกแจงผลผลิตอ้อย
 | ช่วงผลผลิต (กก./ไร่) | ความถี่ (จำนวนแปลง) | ร้อยละ | สะสม |
 |---|---|---|---|
 | < 8,000 | 25 | 12.5% | 12.5% |
@@ -298,22 +300,17 @@ print(" Date range:", df["cert_date"].min(), "–", df["cert_date"].max())
 
 # การวัดแนวโน้มเข้าสู่ส่วนกลาง
 
-**Mean (ค่าเฉลี่ย)** — ผลรวม / จำนวน
-- ข้อดี: ใช้ข้อมูลทุกค่า
-- ข้อเสีย: อ่อนไหวต่อ outlier
+**Mean (ค่าเฉลี่ย)** คือ ผลรวม หารด้วย จำนวนทั้งหมด
+- ข้อดี คือ ใช้ข้อมูลทุกค่า
+- ข้อเสีย คือ อ่อนไหวต่อ outlier
 
-**Median (มัธยฐาน)** — ค่ากึ่งกลาง
-- ข้อดี: ไม่ได้รับผลจาก outlier
-- ใช้เมื่อข้อมูลเบ้ (skewed)
+**Median (มัธยฐาน)** คือ ค่ากึ่งกลาง
+- ข้อดี คือ ไม่ได้รับผลจาก outlier
+- ใช้เมื่อข้อมูลมีลักษณะเบ้ (skewed)
 
----
 
-# การวัดแนวโน้มเข้าสู่ส่วนกลาง (ต่อ)
-
-**Mode (ฐานนิยม)** — ค่าที่ปรากฏบ่อยที่สุด
+**Mode (ฐานนิยม)** คือ ค่าที่ปรากฏบ่อยที่สุด
 - ใช้กับข้อมูล categorical ได้
-
-**ตัวอย่าง:** วิเคราะห์ปริมาณอ้อยเฉลี่ยต่อไร่ของเกษตรกร
 
 ---
 
@@ -345,22 +342,22 @@ else:
 
 # การวัดการกระจายของข้อมูล
 
-**Range (พิสัย)** — สูงสุด - ต่ำสุด
-- ง่ายแต่ไม่ทนต่อ outlier
+**Range (พิสัย)** คือ ค่าสูงสุด - ค่าต่ำสุด
+- เป็นวิธีที่ง่ายแต่ไม่ทนต่อ outlier
 
-**Variance (ความแปรปรวน)** — ค่าเฉลี่ยของ (ส่วนเบี่ยงเบน)²
+**Variance (ความแปรปรวน)** คือ ค่าเฉลี่ยของ (ส่วนเบี่ยงเบน)²
 - σ² = Σ(xᵢ - μ)² / N
 
 ---
 
 # การวัดการกระจายของข้อมูล (ต่อ)
 
-**Standard Deviation (ส่วนเบี่ยงเบนมาตรฐาน)** — √Variance
+**Standard Deviation (ส่วนเบี่ยงเบนมาตรฐาน)** คือ square root of variance
 - หน่วยเดียวกับข้อมูลเดิม
-- 68-95-99.7 Rule: µ±1σ=68%, µ±2σ=95%, µ±3σ=99.7%
+- 68, 95, และ 99.7 Rule: µ±1σ=68%, µ±2σ=95%, µ±3σ=99.7%
 
-**IQR** — Q3 - Q1
-- ใช้หาค่า outlier: Q1 - 1.5×IQR หรือ Q3 + 1.5×IQR
+**IQR** — Q3 - Q1 (ช่วงระหว่างควอไทล์ที่ 3 และ 1)
+- ใช้หาค่า outlier: Q1 - 1.5 × IQR หรือ Q3 + 1.5 × IQR
 
 ---
 
@@ -404,7 +401,7 @@ print(f"Outlier found: {len(outliers)} เดือน")
 
 | เครื่องมือ | การใช้งาน |
 |---|---|
-| Correlation Analysis | ผลิตอ้อยสัมพันธ์กับปริมาณน้ำฝนหรือไม่? |
+| Correlation Analysis | ผลิตอ้อยสัมพันธ์กับปริมาณน้ำฝนหรือไม่ |
 | Cross-Tabulation | จำนวน มอก. แยกตามประเภทอุตสาหกรรม |
 | Trend Analysis | แนวโน้มการส่งออกน้ำตาล 5 ปี |
 
@@ -429,8 +426,8 @@ print(f"r = {corr:.3f}")
 | 0.3 – 0.5 | ต่ำ |
 | 0.0 – 0.3 | น้อยมาก |
 
-**ข้อควรระวัง:** Correlation ≠ Causation
-(ความสัมพันธ์ไม่ใช่สาเหตุ)
+**ข้อควรระวัง** Correlation ≠ Causation
+(ความสัมพันธ์ไม่ใช่เท่ากับสาเหตุเสมอไป)
 
 ---
 
@@ -443,10 +440,10 @@ print(f"r = {corr:.3f}")
 | Line Chart | แนวโน้มราคาน้ำตาลรายเดือน |
 | Pie Chart | สัดส่วนพื้นที่ปลูกอ้อยรายภาค |
 | Histogram | การกระจายของผลผลิตต่อไร่ |
-| Box Plot | แสดงค่ากลางและการกระจาย + outlier |
+| Box Plot | แสดงค่ากลาง การกระจาย และ outlier |
 | Scatter Plot | ความสัมพันธ์ระหว่าง 2 ตัวแปร |
 
-**หลักการเลือก Visualization:** รู้จักข้อมูล → รู้จักผู้ชม → เลือกให้เหมาะสม
+**หลักการเลือก Visualization:** (1) รู้จักข้อมูล (2) รู้จักผู้ชม และ (3) เลือกให้เหมาะสม
 
 ---
 
@@ -483,13 +480,11 @@ plt.show()
 
 # แนวคิด AI และ Machine Learning
 
-**AI** — ความสามารถของเครื่องจักรในการแสดงพฤติกรรมชาญฉลาด
+**AI** ความสามารถของเครื่องจักรในการแสดงพฤติกรรมชาญฉลาด
+**Machine Learning** แขนงหนึ่งของ AI ที่สอนให้คอมพิวเตอร์เรียนรู้ (pattern) ของข้อมูล
+**Deep Learning** แขนงของ ML ที่ใช้ Neural Network เป็นแกนหลัก
 
-**Machine Learning** — แขนงหนึ่งของ AI ที่สอนให้คอมพิวเตอร์เรียนรู้จากข้อมูล
-
-**Deep Learning** — แขนงของ ML ที่ใช้ Neural Network หลายชั้น
-
-<img src="image.png" width=400 height=400 class="center">
+<img src="image.png" width=450 height=450 class="center">
 
 ---
 
@@ -499,10 +494,8 @@ plt.show()
 |---|---|---|
 | **Supervised** | เรียนรู้จาก Labeled Data | Linear Regression, Decision Tree, Random Forest |
 | **Unsupervised** | เรียนรู้จาก Unlabeled Data | K-Means, PCA, Hierarchical Clustering |
-| **Semi-Supervised** | ผสมทั้ง labeled และ unlabeled | Self-training, SSL |
+| **Semi-Supervised** | ผสมทั้ง labeled และ unlabeled | Self-training |
 | **Reinforcement** | เรียนรู้จาก Reward/Penalty | Q-Learning, DQN, PPO |
-
-**ความแตกต่างสำคัญ:** Supervised ต้องการข้อมูลที่มีคำตอบ, Unsupervised ไม่ต้องการ
 
 ---
 
@@ -513,13 +506,13 @@ plt.show()
 | **Output** | ค่าตัวเลขต่อเนื่อง | หมวดหมู่/คลาส |
 | **ตัวอย่าง** | พยากรณ์ yield อ้อย | จำแนกผ่าน/ไม่ผ่าน มอก. |
 | **Evaluation** | MSE, MAE, R² | Accuracy, Precision, Recall |
-| **Example Algo** | Linear Regression, Random Forest Regressor | Logistic Regression, Decision Tree Classifier |
+| **Example ML Algorithm** | Linear Regression, Random Forest Regressor | Logistic Regression, Decision Tree Classifier |
 
-**ข้อควรจำ:** ต้องเลือก algorithm ให้เหมาะกับประเภทของ output
+**ข้อควรจำ** ต้องเลือก algorithm ให้เหมาะกับประเภทของ output
 
 ---
 
-# Traditional vs Predictive Analytics
+# Traditional Analytics (Stats) VS Predictive Analytics
 
 | Traditional | Predictive |
 |---|---|
@@ -535,10 +528,9 @@ plt.show()
 
 **ทำไมต้องแบ่งข้อมูล?**
 - เพื่อประเมินว่าโมเดล generalize ได้ดีแค่ไหน
-- ป้องกัน **Overfitting** (จำแต่ข้อมูล train)
+- ป้องกัน **Overfitting** (เรียนรู้แต่ข้อมูล train)
 
-**แนวคิด:** ไม่ควรใช้ข้อมูลชุดเดียวทั้งสอนและสอบ
-  - เหมือนนักเรียนที่สอบข้อสอบเดียวกับที่ท่องจำ
+**แนวคิด** คือ ไม่ควรใช้ข้อมูลชุดเดียวทั้งสอนและทดสอบ
 
 ---
 
@@ -556,19 +548,8 @@ plt.show()
 
 | สถานะ | อาการ | สาเหตุ | วิธีแก้ |
 |---|---|---|---|
-| **Underfitting** | โมเดลไม่ดีทั้ง train และ test | โมเดลง่ายเกินไป, feature ไม่พอ | เพิ่ม complexity, เพิ่ม features |
-| **Overfitting** | train ดีมาก แต่ test แย่ | โมเดลซับซ้อนเกินไป, ข้อมูลน้อย | Regularization, ลด features, เพิ่มข้อมูล |
-
----
-
-# Bias-Variance Tradeoff
-
-| สถานะ | Bias | Variance | ผลลัพธ์ |
-|---|---|---|---|
-| **Underfitting** | สูง | ต่ำ | เรียนรู้ไม่พอ |
-| **Overfitting** | ต่ำ | สูง | จดจำเกินไป |
-
-**เป้าหมาย:** หาจุดสมดุลระหว่าง Bias และ Variance
+| **Underfitting** | โมเดลไม่ดีทั้ง train และ test | โมเดลง่ายเกินไป, feature ไม่พอ | เพิ่ม complexity, เพิ่ม features (มิติข้องข้อมูล) |
+| **Overfitting** | train ดีมาก แต่ test แย่ | โมเดลซับซ้อนเกินไป, ข้อมูลน้อย | ใช้เทคนิค Regularization, ลด features (มิติ), เพิ่มจำนวนข้อมูล (Samples) |
 
 ---
 
@@ -626,28 +607,29 @@ print(f"Accuracy: {accuracy:.2%}")
 
 **Confusion Matrix:**
 
-| | พยากรณ์ Positive | พยากรณ์ Negative |
+| | พยากรณ์ว่าเป็น Positive | พยากรณ์ว่าเป็น Negative |
 |---|---|---|
-| **จริง Positive** | ✅ TP (True Positive) | ❌ FN (False Negative) |
-| **จริง Negative** | ❌ FP (False Positive) | ✅ TN (True Negative) |
+| ของจริงเป็น Positive | TP (True Positive) | FN (False Negative) |
+| ของจริงเป็น Negative | FP (False Positive) | TN (True Negative) |
 
 ---
 
 # Metrics สำหรับ Classification
 
-| Metric | สูตร | เหมาะกับ |
-|---|---|---|
-| Accuracy | (TP+TN) / Total | ข้อมูลสมดุล |
-| Precision | TP / (TP+FP) | ต้องการความเชื่อมั่นสูง |
-| Recall | TP / (TP+FN) | ต้องการจับให้ครบ |
-| F1-Score | 2×P×R / (P+R) | ข้อมูลไม่สมดุล |
-| AUC-ROC | Area under curve | ความสามารถแยกคลาส |
+| Metric | สูตร |
+|---|---|
+| Accuracy | (TP+TN) / Total |
+| Precision | TP / (TP+FP) |
+| Recall | TP / (TP+FN) |
+| F1-Score | 2×P×R / (P+R) |
+| AUC-ROC | Area under curve |
 
 ---
 
 # การประยุกต์ใช้กับ สมอ. และ สำนักงานอ้อย
 
-**Use Case 1: สมอ. — พยากรณ์แนวโน้มการขอ มอก.**
+## **Use Case 1 พยากรณ์แนวโน้มการขอ มอก.**
+
 ```python
 features = ["gdp_growth", "new_factory_count",
             "import_tariff", "industry_index"]
@@ -667,7 +649,8 @@ for feat, imp in zip(features, model.feature_importances_):
 
 # การประยุกต์ใช้กับ สมอ. และ สำนักงานอ้อย
 
-**Use Case 2: สำนักงานอ้อย — จัดกลุ่มเกษตรกรตามศักยภาพ**
+## **Use Case 2 สำนักงานอ้อย (จัดกลุ่มเกษตรกรตามศักยภาพ)**
+
 ```python
 from sklearn.cluster import KMeans
 
@@ -686,17 +669,15 @@ print(df.groupby("farmer_group").agg({
 # Group 2 = ต้องการพัฒนา
 ```
 
-
-
 ---
 
 # การประเมินโมเดล Unsupervised (Clustering) (1/2)
 
-**Inertia (Within-cluster sum of squares)**
+## **Inertia (Within-cluster sum of squares)**
 - ผลรวมระยะทาง squared ภายใน cluster
 - ยิ่งน้อยยิ่งดี
 
-**Silhouette Score**
+## **Silhouette Score**
 - วัดว่าแต่ละจุดอยู่ถูก cluster หรือไม่
 - ค่าอยู่ระหว่าง -1 ถึง 1
 - 0.5 = จัดกลุ่มได้ดี
@@ -705,7 +686,7 @@ print(df.groupby("farmer_group").agg({
 
 # การประเมินโมเดล Unsupervised (Clustering) (2/2)
 
-**Elbow Method — หาจำนวน cluster ที่เหมาะสม:**
+## **Elbow Method — หาจำนวน cluster ที่เหมาะสม**
 ```python
 inertias = []
 for k in range(1, 11):
@@ -719,12 +700,12 @@ for k in range(1, 11):
 
 # ข้อควรระวังในการใช้ Predictive Models
 
-⚠️ **โมเดลพยากรณ์ไม่แม่นยำ 100%**
+## **โมเดลพยากรณ์ไม่ได้แม่นยำ 100%**
 - ต้องติดตามและปรับปรุงโมเดลอย่างสม่ำเสมอ
-- **Ethical AI:** ระวัง Bias ในข้อมูล
-- ข้อมูลที่มีคุณภาพ → ผลลัพธ์ที่มีคุณภาพ
+- **Ethical AI** ระวัง Bias ในข้อมูล
+- ข้อมูลที่มีคุณภาพ นำไปสู่ ผลลัพธ์ที่มีคุณภาพ
 - ใช้เป็นเครื่องมือช่วยตัดสินใจ ไม่ใช่คำตัดสิน
-- **Garbage In, Garbage Out (GIGO):** โมเดลดีแค่ไหนก็ไม่ช่วยถ้าข้อมูลไม่ดี
+- **Garbage In, Garbage Out (GIGO)** โมเดลดีแค่ไหนก็ไม่ช่วยถ้าข้อมูลไม่ดี
 
 ---
 
@@ -736,14 +717,14 @@ for k in range(1, 11):
 
 # สถาปัตยกรรมระบบวิเคราะห์ข้อมูล 4 ชั้น
 
-1. **Data Source** — ทะเบียนโรงงาน, ผลตรวจ, ศุลกากร, เกษตร
-2. **Data Ingestion** — ETL รายวัน, API เชื่อมต่อหน่วยงาน
-3. **Data Storage** — Data Warehouse รวมข้อมูล มอก. + อ้อย
-4. **Analysis & Viz** — Power BI Dashboard, Python Analytics
+1. **Data Source** เช่น ทะเบียนโรงงาน, ผลตรวจ, ศุลกากร, เกษตร
+2. **Data Ingestion** เช่น ETL รายวัน, API เชื่อมต่อหน่วยงาน
+3. **Data Storage** เช่น Data Warehouse รวมข้อมูล มอก. และ สอน.
+4. **Analysis & Visualization** เช่น Power BI Dashboard, Python Analytics
 
 ---
 
-# รูปแบบ Data Processing: Batch vs Real-time
+# รูปแบบ Data Processing แบบ Batch VS Real-time
 
 | มิติ | Batch Processing | Real-time / Streaming |
 |---|---|---|
@@ -753,18 +734,18 @@ for k in range(1, 11):
 | **ต้นทุน** | ต่ำกว่า | สูงกว่า |
 | **ใช้กับ** | รายงานสรุป, Data Warehouse | Alert, Dashboard real-time |
 
-**ตัวอย่าง Batch:** สรุปยอด มอก. รายเดือน
-**ตัวอย่าง Real-time:** แจ้งเตือนเมื่อตรวจพบสินค้าไม่ได้มาตรฐาน
+**ตัวอย่าง Batch** สรุปยอด มอก. รายเดือน
+**ตัวอย่าง Real-time** แจ้งเตือนเมื่อตรวจพบสินค้าไม่ได้มาตรฐาน
 
 ---
 
 # Data Modeling Concepts: Star Schema
 
-**Fact Table (ตารางข้อเท็จจริง):**
+## **Fact Table (ตารางข้อเท็จจริง)**
 - เก็บข้อมูลเชิงปริมาณที่ต้องการวิเคราะห์
 - เช่น ยอด มอก., ปริมาณอ้อย, ราคา
 
-**Dimension Tables (ตารางมิติ):**
+## **Dimension Tables (ตารางมิติ)**
 - เก็บข้อมูลที่เป็นมิติสำหรับการวิเคราะห์
 - เช่น ตารางเวลา, จังหวัด, ประเภทอุตสาหกรรม
 
@@ -797,14 +778,14 @@ merged.to_sql("agg_factory_trade", conn_dw,
 # แนวทางการออกแบบแพลตฟอร์ม
 
 1. **Scalability** — รองรับข้อมูลที่เพิ่มขึ้นทุกปี
-2. **Reliability** — Backup & Recovery, SLA > 99.5%
-3. **Security** — RBAC, Encryption, PDPA
+2. **Reliability** — Backup & Recovery, SLA (Service Level Agreement) > 99.5%
+3. **Security** — Encryption, PDPA
 4. **Cost Efficiency** — Cloud Infrastructure
 5. **Maintainability** — Modular design, มี Documentation
 
 ---
 
-# เทคโนโลยีที่นิยมในแต่ละชั้น
+# เทคโนโลยีที่นิยมในแต่ละขั้นตอน
 
 | ชั้น | เทคโนโลยี |
 |---|---|
@@ -833,18 +814,17 @@ def validate_factory_data(df):
         print(f"  [{'PASS' if passed else 'FAIL'}] {name}")
 ```
 
-
-
 ---
 
 # การเชื่อมโยงข้อมูลจากหลายแหล่ง
 
-**ความท้าทาย:**
-- รูปแบบข้อมูลต่างกัน (สมอ. = มาตรฐาน, อ้อย = เกษตร)
+## **ความท้าทาย:**
+- รูปแบบข้อมูลต่างกัน
 - คุณภาพข้อมูลไม่เท่ากัน
 - ความถี่อัปเดตต่างกัน
 - ข้อจำกัดด้านความปลอดภัย
-**แนวทางแก้ไข:**
+
+## **แนวทางแก้ไข:**
 - Data Integration Tools (NiFi, Talend)
 - API Gateway
 - Data Virtualization
@@ -1027,12 +1007,12 @@ print(need_boost[["province", "tis_count",
 
 # สรุปประเด็นสำคัญ
 
-1. **Data Analytics / Data Science** คืออะไร, DIKW Pyramid, 4 ระดับการวิเคราะห์
+1. **Data Analytics / Data Science** คืออะไร, DIKW Pyramid, การวิเคราะห์ 4 ระดับ
 2. **ประเภทของข้อมูล** Structured/Semi/Unstructured, Data Quality, Preprocessing
 3. **Descriptive Analytics** สถิติพื้นฐาน, Central Tendency, Dispersion, Distribution
 4. **Predictive Analytics & ML** Supervised/Unsupervised, Overfitting, Evaluation Metrics
 5. **Data Platform Design** สถาปัตยกรรม 4 ชั้น, ETL, Star Schema
-6. **การประยุกต์ใช้ใน สมอ. และ สำนักงานอ้อย**
+6. **การประยุกต์ใช้**
 
 **Code ที่ใช้วันนี้:** Python (pandas, scikit-learn, matplotlib, seaborn)
 
